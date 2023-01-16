@@ -31,13 +31,14 @@
   <body>
     {%- from "../macros/header.njk" import header %}
     {%- from "../macros/categoryList.njk" import categoryList %}
+    {{ header({ siteName: site.name, description: site.description }) }}
     
+    {% include '../components/nav.njk' %}
+
     {% block body %}
       <div class="page-content">
-        {% include '../components/nav.njk' %}
         {% block content %}
           
-          {{ header({ siteName: site.name, description: site.description }) }}
           
           <main class="wrapper" role="main" id="content">
 
