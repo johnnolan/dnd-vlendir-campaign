@@ -1,0 +1,16 @@
+---
+layout: layouts/fullwidth.njk
+backLink: "/"
+---
+
+{% set navPages = collections.all | eleventyNavigation(eleventyNavigation.key) %}
+
+<ul>
+    {%- for entry in navPages %}
+        <li>
+            <a href="{{ entry.url }}" alt="Navigate to {{ entry.title }}" class="nav_list-item_link">
+                {{ entry.title }}
+            </a>
+        </li>
+    {%- endfor -%}
+</ul>

@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link href="{{ '/assets/main.css' | url }}" rel="stylesheet" as="style">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | url }}">
+    <link rel="icon" type="image/png" href="{{ '/assets/images/favicon-32x32.png' | url }}" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{ '/assets/images/favicon-16x16.png' | url }}" sizes="16x16">
+    <link rel="manifest" href="{{ '/manifest.json' | url }}">
+    <link rel="mask-icon" href="{{ '/assets/images/safari-pinned-tab.svg' | url }}" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="shortcut icon" href="{{ '/favicon.ico' | url }}" type="image/x-icon">
+
+    <meta name="description" content="{{ description  }}">
+
+    <meta property="og:title" content="{{ title or renderData.title or metadata.title }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:description" content="{{ description or renderData.description }}" />
+    <meta property="og:image" content="{{ site.url }}/{{ post.image or page.image or image or 'assets/posts/johnnolan.jpg' }}" />
+    <meta property="og:type" content="article" />
+
+    <script src="{{ '/assets/index.js' | url }}" defer></script>
+    <title>{{ title }} - {{ site.name }}</title>
+    
+  </head>
+  <body>
+    {%- from "../macros/header.njk" import header %}
+    {%- from "../macros/categoryList.njk" import categoryList %}
+    
+    {% block body %}
+      <div class="page-content">
+        {% include '../components/nav.njk' %}
+        {% block content %}
+          
+          {{ header({ siteName: site.name, description: site.description }) }}
+          
+          <main class="wrapper" role="main" id="content">
+
+            {{ content | safe }}
+            
+          </main>
+
+        {% endblock %}
+      </div>
+
+    {% endblock %}
+  </body>
+</html>
