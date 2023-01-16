@@ -24,16 +24,14 @@ As the body of the creature hit the ground, the group noticed a ring on the Were
 
  Sitting down in the house at the table and grabbing multiple bottles of wine, the group take some time ask questions.  
 
-*   Harry explains he tried to use the ring but was knocked out as soon as he was jumped by the beast
-*   He explains that the ring is in a chest with other treasure back in the cave
-*   Saskia tells the group that Varalla was not Fey but from the Shadown Realm
-*   As they discussed about what to ask in the Commune sessions, Saskia offers to let them visit the Feywild to speak to their dieties.
-*   Just like the Feywild where stories of pixies, moving trees and hags come from, the Shadowrealm is its equal in werebeasts, vampires and zombies
-*   Saskia was born in the Feywild, half elf, half Fey creature and brought back to the material plane as a young child never to return
-*   It has been a long time since she has heard of anything from these planes crossing. So long that these creatures who used to be seen have turned into childs stories and myth. Until now.
-*   Saskia was raised in Glimmerfall but has never been back as its too dangerous
-
- 
+* Harry explains he tried to use the ring but was knocked out as soon as he was jumped by the beast
+* He explains that the ring is in a chest with other treasure back in the cave
+* Saskia tells the group that Varalla was not Fey but from the Shadown Realm
+* As they discussed about what to ask in the Commune sessions, Saskia offers to let them visit the Feywild to speak to their dieties.
+* Just like the Feywild where stories of pixies, moving trees and hags come from, the Shadowrealm is its equal in werebeasts, vampires and zombies
+* Saskia was born in the Feywild, half elf, half Fey creature and brought back to the material plane as a young child never to return
+* It has been a long time since she has heard of anything from these planes crossing. So long that these creatures who used to be seen have turned into childs stories and myth. Until now.
+* Saskia was raised in Glimmerfall but has never been back as its too dangerous
 
  Before that she talked to them each about their gods and who/what they are.  
 
@@ -53,54 +51,44 @@ As the body of the creature hit the ground, the group noticed a ring on the Were
 
 ### Hiraani Trip
 
- 
-
  Key points
 
-*   She appeared to have a slight crush on The Keeper with some sort of history
-*   Faen and Doge are mirror images between the planes, everything Doge sees, she sees
-*   "Its not about being a hero, its doing the right thing" is exactly why she chose him
-*   Whatever happened to the ship he tried to save and his interference, caused something to happen with the planes. Like something broke between them and they could see into this plane
-*   She saw instantly Hiraani, his heart and what this creature was cursing him with. She chose to help in that instant
-*   They need to find what was in the ship somehow as well as break the curse
-*   He needs to destroy the Water Djiini to end the curse
-*   They need to find a way to restore the inblanace.
-*   To find the Djiini, start at where you found the book
+* She appeared to have a slight crush on The Keeper with some sort of history
+* Faen and Doge are mirror images between the planes, everything Doge sees, she sees
+* "Its not about being a hero, its doing the right thing" is exactly why she chose him
+* Whatever happened to the ship he tried to save and his interference, caused something to happen with the planes. Like something broke between them and they could see into this plane
+* She saw instantly Hiraani, his heart and what this creature was cursing him with. She chose to help in that instant
+* They need to find what was in the ship somehow as well as break the curse
+* He needs to destroy the Water Djiini to end the curse
+* They need to find a way to restore the inblanace.
+* To find the Djiini, start at where you found the book
 
 ### Lorena Trip
 
- 
-
  Key points
 
-*   Varalla probably doesn't know about the Dragonkin... however she probably knows now
-*   Not previously been an enemy and never heard of her before
-*   Fey cannot see anything from the Shadowrealm and nor they can see what happens with the Fey
-*   She also cannot see the party due to the Fey powers within them
-*   Her eyes have probably shifted from Phandelvin to other stronger places
-*   Look to the Jorus for what may be the biggest threat
-*   Lorena will need all the people behind her if a giant battle commences and the Jorus is one of them
-*   She grants Lorena stronger powers through her armour to help her be more agile in battle
-*   Lorena needs to find out why and how this inbalance is happening
-*   The Dragonkin will try and research more about what might have happened in their historical books
-
- 
+* Varalla probably doesn't know about the Dragonkin... however she probably knows now
+* Not previously been an enemy and never heard of her before
+* Fey cannot see anything from the Shadowrealm and nor they can see what happens with the Fey
+* She also cannot see the party due to the Fey powers within them
+* Her eyes have probably shifted from Phandelvin to other stronger places
+* Look to the Jorus for what may be the biggest threat
+* Lorena will need all the people behind her if a giant battle commences and the Jorus is one of them
+* She grants Lorena stronger powers through her armour to help her be more agile in battle
+* Lorena needs to find out why and how this inbalance is happening
+* The Dragonkin will try and research more about what might have happened in their historical books
 
 ### Graa Trip
 
- 
-
  Key points  
 
-  
-
-*   The Keeper has a bottle of infinite booze
-*   Sees alot of himself in Graa and very happy with how well he is doing
-*   Kind of worried about Varalla as if things go inbalanced, he could lose a lot of his fun time and risk the Feywild being destroyed. Very uncool.
-*   Definitely a decent guy
-*   Will look through his books of all the history around this inbalance and what could be causing it
-*   Has a massive collection of Tombs to dig through
-*   Suggests sticking with that Crispin fellow
+* The Keeper has a bottle of infinite booze
+* Sees alot of himself in Graa and very happy with how well he is doing
+* Kind of worried about Varalla as if things go inbalanced, he could lose a lot of his fun time and risk the Feywild being destroyed. Very uncool.
+* Definitely a decent guy
+* Will look through his books of all the history around this inbalance and what could be causing it
+* Has a massive collection of Tombs to dig through
+* Suggests sticking with that Crispin fellow
 
 As they all come awake, they see Saskia smiling at them and morning come as the 5 minutes turned into 14 hours...
 

@@ -14,38 +14,34 @@ The group pick themselves up and make their way out of the temple to rest and re
 
  Jor...
 
-*   Pulls out her bag
-*   Lays her bow in front of her
-*   Mira lies beside her
-*   Pulls out her bag
-*   Starts a fire
-*   Once it dies down, takes the ash and covers her hair and face
-*   Deer antlers
-*   Random bones
-*   A handful of bark
-*   Crushed up mushrooms
-*   Mixes them and spreads the dirt with two fingers across her forehead
-*   Takes a knife and slices her hand and Hiraani's
-*   They hold hands tightly over the bark and mushrooms
-*   Starts to chant in a low voice with her eyes closed
-*   Everyone sees the air haze over around her
-
- 
+* Pulls out her bag
+* Lays her bow in front of her
+* Mira lies beside her
+* Pulls out her bag
+* Starts a fire
+* Once it dies down, takes the ash and covers her hair and face
+* Deer antlers
+* Random bones
+* A handful of bark
+* Crushed up mushrooms
+* Mixes them and spreads the dirt with two fingers across her forehead
+* Takes a knife and slices her hand and Hiraani's
+* They hold hands tightly over the bark and mushrooms
+* Starts to chant in a low voice with her eyes closed
+* Everyone sees the air haze over around her
 
  Solonar comes to both of them. A warmth comes over Hiraani like being covered with a warm blanket  
 
  Solonar Tells Hiraani
 
-*   You are not Elven, you do not belong with them
-*   Yet in many ways you are more Elven then those on this plain
-*   For helping my children, I embue you with the power of the elven kind
-*   To accept it, you first must complete this journey you are on
-*   End your curse, destroy its power over you and you will be able to open yourself
-*   I leave you with a gift not given in a long time. A merging of our Fey parents and our Elven kin. Aislaine is known to me, she is beautiful and good. We played as children when the world was young and... Different. May this help you in your quest ahead
-*   Wakes to Doge standing next to him and Jor crying. What was said to her was for her.
-*   A glow of green now surrounds Doge and he has grown in size and muscle
-
- 
+* You are not Elven, you do not belong with them
+* Yet in many ways you are more Elven then those on this plain
+* For helping my children, I embue you with the power of the elven kind
+* To accept it, you first must complete this journey you are on
+* End your curse, destroy its power over you and you will be able to open yourself
+* I leave you with a gift not given in a long time. A merging of our Fey parents and our Elven kin. Aislaine is known to me, she is beautiful and good. We played as children when the world was young and... Different. May this help you in your quest ahead
+* Wakes to Doge standing next to him and Jor crying. What was said to her was for her.
+* A glow of green now surrounds Doge and he has grown in size and muscle
 
  Getting a nights sleep, they awake and head back to Jinlon to confront Jaal. As they get close to the border, Hiraani and Lorena sense something below them and jump out of the way as 3 net traps trigger. Graa not moving out the way in time get caught and dragged to the floor and into a nearby bush. Holding Graa up, they see [Sha'a](/w/vlendir-drusslegend/a/sha-a-person) step out of the bush holding Graa, the village Elder, hunter and trainer of which Hiraani spent a lot of time with training.  
 

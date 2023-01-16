@@ -10,11 +10,7 @@ eleventyNavigation:
 
 ### Dream sequence
 
- 
-
 #### Hiraani
-
- 
 
  You awake in a meadow naked, warm sun and a cool breeze blowing over your skin. Your mind feels at peace as you hear the sound of flying creatures all around you. As your eyesight adjusts, you see all around you a meadow in full summer bloom, natures song all around with the sweet smell of trees and grass filling your sense.  
 
@@ -22,13 +18,9 @@ eleventyNavigation:
 
 #### Graa S'oua
 
- 
-
  You are sat at the head of a huge dining table inside a beautiful spire hall, the smell of rich food, wine and beer fills your nose as the music and cheer blasts from all around you. As you look to the table you see endless amounts of food and wine. More importantly you see piled in the middle a vast amount of Gold, Platinum and gems. Half naked men and women dance erotically in the essence smoke filled room, laughing and sharing each other. Next to you sits a figure with long red silken robes, a handsome face with long brown curly hair down to his waist and a grin breaking his features. "One day my friend, one day..."  
 
 #### Lorena Aldabra
-
- 
 
  You are soaring in the sky, wind cold and refreshing hits your face as you soar higher with excitement. You look to your left to see if your kin are with you and there they are, your dragon kin with you. You can sense each others feelings, you are all at peace, soaring and free, each of gliding through never ending clouds. Brothers, sisters, friends, parents, all together, all love, all family.  
 
@@ -52,8 +44,6 @@ eleventyNavigation:
 
 ### On the way
 
- 
-
  As they climbed the path through the mountain it got extermely cold and windy. As they came over the rise with snow in their eyes, they come across an Ogre frozen still in front of them. They discussed whether they should try to thaw it but decided against it and looted a bag it had with 3 healing potions in.  
 
  Soon they found themselves at the foot of a 5 foot wide path leading up to the spire. As it loomed over them, they went in single file as quietly as they could predicting that the dragon could hear them at any moment from the top of the spire.  
@@ -65,8 +55,6 @@ eleventyNavigation:
  As they made their way to the top of the spire, they entered into what was the orc war chamber with a single door leading onto the roof where they could see the Dragon sleeping.  
 
 ### The Fight
-
- 
 
  As Ulla crept towards the door to take his shot with the Stunzooka, he let his arrow fly but missed as the dragon roared awake, shaking the foundations.  
 

@@ -55,8 +55,9 @@ As the adventurers awoke they got straight to fishing for their breakfast. As a 
  Before sleeping, Graa and Hiraani decided to Commune.  
 
  Hiraani*   Were we just transported to the Feywild? - Yes
-*   Should we expect more of this with the Moon? - Yes
-*   Is the rest of the journey to Riverspire going to be dangerous? - Indifferent
+
+* Should we expect more of this with the Moon? - Yes
+* Is the rest of the journey to Riverspire going to be dangerous? - Indifferent
 The next day, storm clouds begin to gather and they continue now on horse back for the final few days. Following the giant lake now, they see a light in front of them.  
 
  That night they meet a stanger on the road, a smal halfling merchant by the name of **Arrin Hillbrow.**  
@@ -69,11 +70,11 @@ The next day, storm clouds begin to gather and they continue now on horse back f
 
  After these warning he offers them his wares, each decides to buy the following  
 
-*   Trident of Warning - 1000gp - Lorena
-*   Hat of Disguise - 800gp and half plate armour and 2 short swords - Hiraani
-*   Ball Bearings (1,000) - 2gp - Not sold
-*   Fine Mustache - 5gp - Graa
-*   Playing Card Set - 50sp - Hiraani
+* Trident of Warning - 1000gp - Lorena
+* Hat of Disguise - 800gp and half plate armour and 2 short swords - Hiraani
+* Ball Bearings (1,000) - 2gp - Not sold
+* Fine Mustache - 5gp - Graa
+* Playing Card Set - 50sp - Hiraani
 After the trade, he agreed that he would take a letter to Falcon in Phandelvin about the Moon and the Feywild and get some sleep.  
 
  At this point, right before sleep, Graa communes with the Keeper.  
@@ -81,8 +82,9 @@ After the trade, he agreed that he would take a letter to Falcon in Phandelvin a
  Giving Lorena a silver piece then taking it back saying Psych! He laughs and goes to commune.  
 
  Graa*   Is what is watching the merchant, going to be interested in us? - Yes
-*   Is it interested in a malevolent way? - Yes
-*   Is this malevolent presence linked to the bitch in Phandelvin? - Indifferent
+
+* Is it interested in a malevolent way? - Yes
+* Is this malevolent presence linked to the bitch in Phandelvin? - Indifferent
 Resigning themselves to sleep, they all rested to await what the next day brings them.
 
 [Casthion the shrimp](https://www.dndbeyond.com/monsters/1841377-casthion-the-shrimp)  

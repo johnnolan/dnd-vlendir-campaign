@@ -46,11 +46,9 @@ Riding on, south through the Jorus flats, they ride hard getting distance betwee
 
  Hiraani decides to try and commune.  
 
-*   Question 1: The Incubus and Succubus you met, are they to do with Varalla? - Yes
-*   Question 2: Can we defeat them with our skills? - Yes
-*   Question 3: Should we bring together the other towns in the Jorus before attacking them? - Unsure
-
- 
+* Question 1: The Incubus and Succubus you met, are they to do with Varalla? - Yes
+* Question 2: Can we defeat them with our skills? - Yes
+* Question 3: Should we bring together the other towns in the Jorus before attacking them? - Unsure
 
  Lorena asks to send a message to the Orcs via their Sending Stones.  
 
@@ -70,11 +68,9 @@ Riding on, south through the Jorus flats, they ride hard getting distance betwee
 
  Using this, Graa decides to commune. In front of him appears The Keeper with a  
 
-*   Question 1: Can I have some of that drink? -No
-*   Question 2: The 2 Demons, are they do do with Varalla? - Yes
-*   Question 3: If we go to the other villages, do we stand a chance of recruiting people from the local towns to help us? - No
-
- 
+* Question 1: Can I have some of that drink? -No
+* Question 2: The 2 Demons, are they do do with Varalla? - Yes
+* Question 3: If we go to the other villages, do we stand a chance of recruiting people from the local towns to help us? - No
 
  Frustrated by the questions he asked, he explained to the others what he found out.  
 
@@ -106,27 +102,21 @@ Riding on, south through the Jorus flats, they ride hard getting distance betwee
 
  As they awake in the morning before heading off, Hiraani tries to commune.  
 
-*   Question 1: Are the succubus and incubus bonded to a partner - Unsure
-*   Question 2: Have they spawned - Yes
-*   Question 3: Can we befriend the snake people - No
-
- 
+* Question 1: Are the succubus and incubus bonded to a partner - Unsure
+* Question 2: Have they spawned - Yes
+* Question 3: Can we befriend the snake people - No
 
  Graa chose to commune too  
 
-*   Question 1: Has he bonded with Lorenas mum? - No
-*   Question 2: Has he bonded with the wizard? - No
-*   Question 3: Has he bonded with the snakes? - No
-
- 
+* Question 1: Has he bonded with Lorenas mum? - No
+* Question 2: Has he bonded with the wizard? - No
+* Question 3: Has he bonded with the snakes? - No
 
  Lorena decided to also commune to find some answers to the turtle  
 
-  
-
-*   Question 1: Do we have a spy in the camp? - No
-*   Question 2: Is there anything magical about this turtle? - Yes
-*   Question 3: Is this turtle some kind of descendent of the ancient god of the Jorus? - Yes
+* Question 1: Do we have a spy in the camp? - No
+* Question 2: Is there anything magical about this turtle? - Yes
+* Question 3: Is this turtle some kind of descendent of the ancient god of the Jorus? - Yes
 
 **Report Date**
 

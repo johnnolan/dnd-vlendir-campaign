@@ -16,9 +16,9 @@ As the adventurers awoke from a nights sleep, Lorena went to find her mum. Expal
 
  Hiraani stepped forward and tried to commune instead.  
 
-*   Question 1: Is this turtle significant to this quest - indifferent
-*   Question 2: If we went to the beach, would it reveal more about the turtle - No
-*   Question 3: Would we find more turtles? - No
+* Question 1: Is this turtle significant to this quest - indifferent
+* Question 2: If we went to the beach, would it reveal more about the turtle - No
+* Question 3: Would we find more turtles? - No
 
 As they preparred to leave, they asked for anyone who may be able to help. He said no as they needed everyone and they had no one as strong as they were.  
 

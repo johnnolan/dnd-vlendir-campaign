@@ -20,8 +20,6 @@ They all awoke, not knowing each other in a new town Phandelver. Went and asked 
 
  Upon slaying Cryovain, the magical ice barrier that had surrounded Phandelver was destroyed and you made your way back to town, but not before handing over a sending stone to talk with the Orcs before you left.  
 
-  
-
  **You also noticed a circlet around the dragons neck, what was glowing in battle now just disenchanted with its death.**  
 
  Upon coming to the town you found it burning with demon creatures killing and Varalla facing Elva and Falcon outside the pub as a last stand.  
@@ -40,11 +38,9 @@ They all awoke, not knowing each other in a new town Phandelver. Went and asked 
 
  They found that each of them had one way or another been helped by creatures from the Feywild.
 
-*   Hiraani - Aislaine, The Maiden
-*   Graa S'oua - The Keeper
-*   Lorena Aldabra - Lorena Dragonkin
-
- 
+* Hiraani - Aislaine, The Maiden
+* Graa S'oua - The Keeper
+* Lorena Aldabra - Lorena Dragonkin
 
  **He explained to Hiraani that the curse was done by a Djinni and he needs to find a way back to the lighthouse he came from and find a part of the book he read from to hopefully use Graa S'oua 's magic to locate the entity and beat it.**  
 

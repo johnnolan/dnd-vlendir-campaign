@@ -15,8 +15,8 @@ eleventyNavigation:
 
 You can do the following as a bonus action
 
-1.  Throw a object from your inventory but not to hit. So no throwing weapons, however bombs, potions, poisons and rope is fine
-2.  You can use any type of potion
+1. Throw a object from your inventory but not to hit. So no throwing weapons, however bombs, potions, poisons and rope is fine
+2. You can use any type of potion
 
 ### Healing Surge
 

@@ -36,13 +36,13 @@ As the group came too, Lorena looked down at her armour and noticed a change to 
 
  Kira gives a massive laugh and uses the opportunity to begin getting order reestablished. First dealing with a talk down of Barry and Chad before moving onto getting the town into a better working order as Saskia reappears and begins to help. Asking the group to join her, she takes them to her Inn where they can talk about what has been happening.  
 
-*   She tells them about her Dad, Captain Lee who owns the ship they previously saw on the lake and he would be find to ask for any sort of transport.
-*   She agreed to let them look through the mayors house
-*   Her rations were little but still provided them with a great platter of food to regain energy
-*   They want to find out where they came from
-*   As Ivan came into the town, he brought with him a big city mindset and it all became about money and growing rather than living in harmony with each other and trade
-*   Over the past 6 months he seems to have gone from a skinny runt to this huge hulking figure and the ring on his fnger appeared around the same time as the transformation
-*   It seems obvious now, but at the time it didn't seem that way. Almost like they were compelled to not notice the changes or accept them easily
+* She tells them about her Dad, Captain Lee who owns the ship they previously saw on the lake and he would be find to ask for any sort of transport.
+* She agreed to let them look through the mayors house
+* Her rations were little but still provided them with a great platter of food to regain energy
+* They want to find out where they came from
+* As Ivan came into the town, he brought with him a big city mindset and it all became about money and growing rather than living in harmony with each other and trade
+* Over the past 6 months he seems to have gone from a skinny runt to this huge hulking figure and the ring on his fnger appeared around the same time as the transformation
+* It seems obvious now, but at the time it didn't seem that way. Almost like they were compelled to not notice the changes or accept them easily
 
 They made their way to Ivans house to see what they could find. On the way they chopped the ring off of Ivan's body to keep it noticing the ring had no decernable features, almost like it is purposely underwealming.  
 
@@ -52,9 +52,9 @@ They made their way to Ivans house to see what they could find. On the way they 
 
  Exploring his room they smashed his desk to get to a locked draw and found
 
-*   Graa finds books called "History of Duvia, 10 easy steps to make friends among other economic books"
-*   Hiraani finds 4,000 gp, 350sp under his bed - They decide to take a small amount and give the rest to the town
-*   In the locked draw they find notes detailing a report back to Duvia about how well he was doing in the town to his teachers as part of his training. Also 2 pieces of diamond worth 100gp
+* Graa finds books called "History of Duvia, 10 easy steps to make friends among other economic books"
+* Hiraani finds 4,000 gp, 350sp under his bed - They decide to take a small amount and give the rest to the town
+* In the locked draw they find notes detailing a report back to Duvia about how well he was doing in the town to his teachers as part of his training. Also 2 pieces of diamond worth 100gp
 
 They then went down to the kitchen and found a cellar in a back cupboard that contained a range of chilled meats and cheeses that he had kept to himself away from the townsfolk. Checking for human bodies there they found no sign.  
 

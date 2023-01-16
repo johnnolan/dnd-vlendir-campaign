@@ -26,7 +26,7 @@ The party awoke to a miserable raining morning next to a snoring Halfling.  
 
  The group packed up and mounted on their horses and made they way onward at a steady canter through the heavy rain.  
 
- Graa and Hiraani began to feel a sense of something watching them from the bushes along the road.   
+ Graa and Hiraani began to feel a sense of something watching them from the bushes along the road.
 
  After a discussion, Graa decided to make a sound of to the side of the road. As it sounded, figures in the bushes ran away from them and the feeling of being watched disappeared as they take a sigh of relief. Sending Doge up front in case anything else comes their way.  
 
@@ -42,9 +42,9 @@ The party awoke to a miserable raining morning next to a snoring Halfling.  
 
  After the battle, Graa decides to commune with The Keeper.  
 
-*   Are those fell beasts what we heard in the bushes earlier? -Yes
-*   Are they what are causing the disturbance at the village? - Indifferent
-*   Are these 4 hounds controlled by something greater? - Yes
+* Are those fell beasts what we heard in the bushes earlier? -Yes
+* Are they what are causing the disturbance at the village? - Indifferent
+* Are these 4 hounds controlled by something greater? - Yes
 Trying to get another question in, The Keeper leaves them before he can finish.  
 
  As they settle down for the rest of the nights sleep, they awake to being absolutely drenched, everything is wet.  

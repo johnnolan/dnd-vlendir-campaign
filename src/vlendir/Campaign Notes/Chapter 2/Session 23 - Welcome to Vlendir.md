@@ -24,9 +24,9 @@ As the adventurers are greeted by Crispin Harding, he introduces himself as Graa
 
  They found that each of them had one way or another been helped by creatures from the Feywild.  
 
-*   Hiraani - [Aislaine, The Maiden](/w/vlendir-drusslegend/a/aislaine2C-the-maiden-person-1)
-*   Graa S'oua - [The Keeper](/w/vlendir-drusslegend/a/the-keeper-person)
-*   Lorena Aldabra - [Lorena Dragonkin](/w/vlendir-drusslegend/a/lorena-dragonkin-article)
+* Hiraani - [Aislaine, The Maiden](/w/vlendir-drusslegend/a/aislaine2C-the-maiden-person-1)
+* Graa S'oua - [The Keeper](/w/vlendir-drusslegend/a/the-keeper-person)
+* Lorena Aldabra - [Lorena Dragonkin](/w/vlendir-drusslegend/a/lorena-dragonkin-article)
 He explained to Hiraani that the curse was done by a Djinni and he needs to find a way back to the lighthouse he came from and find a part of the book he read from to hopefully use Graa S'oua's magic to locate the entity and beat it.  
 
  He then took the object that was around the dragon and casting a spell identified that it was a Enchantment that was cast on the object to control the dragon.  

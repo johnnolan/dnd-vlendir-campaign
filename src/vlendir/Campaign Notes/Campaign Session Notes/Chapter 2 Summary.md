@@ -24,62 +24,54 @@ eleventyNavigation:
 
  Sitting down in the house at the table and grabbing multiple bottles of wine, the group take some time ask questions.
 
-*   **Saskia tells the group that Varalla was not Fey but from the Shadown Realm**
-*   As they discussed about what to ask in the Commune sessions, Saskia offers to let them visit the Feywild to speak to their dieties.
-*   **Just like the Feywild where stories of pixies, moving trees and hags come from, the Shadowrealm is its equal in werebeasts, vampires and zombies**
-*   **Saskia was born in the Feywild, half elf, half Fey creature and brought back to the material plane as a young child never to return**
-*   **It has been a long time since she has heard of anything from these planes crossing. So long that these creatures who used to be seen have turned into childs stories and myth. Until now.**
-*   **Saskia was raised in Glimmerfall but has never been back as its too dangerous**
-*   Saskia allowed each of them to visit the Feywild to talk properly with their Dieties
-
- 
+* **Saskia tells the group that Varalla was not Fey but from the Shadown Realm**
+* As they discussed about what to ask in the Commune sessions, Saskia offers to let them visit the Feywild to speak to their dieties.
+* **Just like the Feywild where stories of pixies, moving trees and hags come from, the Shadowrealm is its equal in werebeasts, vampires and zombies**
+* **Saskia was born in the Feywild, half elf, half Fey creature and brought back to the material plane as a young child never to return**
+* **It has been a long time since she has heard of anything from these planes crossing. So long that these creatures who used to be seen have turned into childs stories and myth. Until now.**
+* **Saskia was raised in Glimmerfall but has never been back as its too dangerous**
+* Saskia allowed each of them to visit the Feywild to talk properly with their Dieties
 
 #### Hiraani Trip
 
 Key points  
 
-*   She appeared to have a slight crush on The Keeper with some sort of history
-*   Faen and Doge are mirror images between the planes, everything Doge sees, she sees
-*   "Its not about being a hero, its doing the right thing" is exactly why she chose him
-*   **Whatever happened to the ship he tried to save and his interference, caused something to happen with the planes. Like something broke between them and they could see into this plane**
-*   She saw instantly Hiraani, his heart and what this creature was cursing him with. She chose to help in that instant
-*   **They need to find what was in the ship somehow as well as break the curse**
-*   **He needs to destroy the Water Djiini to end the curse**
-*   **They need to find a way to restore the inblanace.**
-*   **To find the Djiini, start at where you found the book**
-
- 
+* She appeared to have a slight crush on The Keeper with some sort of history
+* Faen and Doge are mirror images between the planes, everything Doge sees, she sees
+* "Its not about being a hero, its doing the right thing" is exactly why she chose him
+* **Whatever happened to the ship he tried to save and his interference, caused something to happen with the planes. Like something broke between them and they could see into this plane**
+* She saw instantly Hiraani, his heart and what this creature was cursing him with. She chose to help in that instant
+* **They need to find what was in the ship somehow as well as break the curse**
+* **He needs to destroy the Water Djiini to end the curse**
+* **They need to find a way to restore the inblanace.**
+* **To find the Djiini, start at where you found the book**
 
 #### Lorena Trip
 
 Key points  
 
-*   Varalla probably doesn't know about the Dragonkin... however she probably knows now
-*   Not previously been an enemy and never heard of her before
-*   **Fey cannot see anything from the Shadowrealm and nor they can see what happens with the Fey**
-*   **She also cannot see the party due to the Fey powers within them**
-*   Her eyes have probably shifted from Phandelvin to other stronger places
-*   Look to the Jorus for what may be the biggest threat
-*   Lorena will need all the people behind her if a giant battle commences and the Jorus is one of them
-*   She grants Lorena stronger powers through her armour to help her be more agile in battle
-*   Lorena needs to find out why and how this inbalance is happening
-*   The Dragonkin will try and research more about what might have happened in their historical books
-
- 
+* Varalla probably doesn't know about the Dragonkin... however she probably knows now
+* Not previously been an enemy and never heard of her before
+* **Fey cannot see anything from the Shadowrealm and nor they can see what happens with the Fey**
+* **She also cannot see the party due to the Fey powers within them**
+* Her eyes have probably shifted from Phandelvin to other stronger places
+* Look to the Jorus for what may be the biggest threat
+* Lorena will need all the people behind her if a giant battle commences and the Jorus is one of them
+* She grants Lorena stronger powers through her armour to help her be more agile in battle
+* Lorena needs to find out why and how this inbalance is happening
+* The Dragonkin will try and research more about what might have happened in their historical books
 
 #### Graa Trip
 
 Key points
 
-*   The Keeper has a bottle of infinite booze
-*   Sees alot of himself in Graa and very happy with how well he is doing
-*   **Kind of worried about Varalla as if things go inbalanced, he could lose a lot of his fun time and risk the Feywild being destroyed. Very uncool.**
-*   Definitely a decent guy
-*   Will look through his books of all the history around this inbalance and what could be causing it
-*   Has a massive collection of Tombs to dig through
-*   Suggests sticking with that Crispin fellow
-
- 
+* The Keeper has a bottle of infinite booze
+* Sees alot of himself in Graa and very happy with how well he is doing
+* **Kind of worried about Varalla as if things go inbalanced, he could lose a lot of his fun time and risk the Feywild being destroyed. Very uncool.**
+* Definitely a decent guy
+* Will look through his books of all the history around this inbalance and what could be causing it
+* Has a massive collection of Tombs to dig through
+* Suggests sticking with that Crispin fellow
 
  They spoke briefly about their experiences including Hiraani's need to destroy a sea Djiini (Water Ghost) and what each of them learnt before starting to plan how they should approach the village.  
 
@@ -92,8 +84,6 @@ Key points
  Arriving at Hunters Rest, they went down to the cellar to check for Ale and found an old puzzle in there. Solving it they found a teleportation circle activate allowing Graa to memorise and teleport back here at any point. Spending the night drinking, having conversations and Hiraani smoking his new pipe of story telling they head back to the ship and back to Riverspire to start heading towards The Jorus after rumour of instability in the region of late. Saskia agrees to put wards up on the house to protect it.  
 
 ### The Jorus
-
- 
 
  Heading out on horseback to the Jorus and on to Aldabra, the group thunder at great speed unhindered due to Hiraanis survival skills. Endless days it took to go across, but as they approached Autmnrun they were ambushed by a group of soldiers, Lorena immediately recognised them as her fathers (Monty) men.  
 
@@ -114,8 +104,6 @@ Key points
  Riding on, south through the Jorus flats, they ride hard getting distance between themselves and Aldabra.  
 
  As the horses start to struggle, they pull up with the other 3 riders and the lead soldier suggests them to rest for a cold camp tonight and begins prepping them for a nights sleep.  
-
-  
 
  His name is Grimbold, his two riding partners, Aron and Theron, a part of the Scarlet Order. They were stationed there as a fall back to help save them on orders of Lorena's Uncle Rab.  
 
@@ -179,23 +167,19 @@ Key points
 
  Druing the next day, Crispin turned up and with all of Lorenas family they discovered  
 
-*   Graa found himself with a magic coin from the Feywild that had been taking his money. Rubbing it he found himself in a Dragons layer piled with gold and gems
-*   The sexy poo event happened...
-*   **The choker when broken down appeared to have enchantment magic not made on this plane. It came from the Shadowfell and also had essences of Fey magic. This makes no sense as the realms are split and should not be able to interact with each other.**
-*   **They explained they found crystal shards after the portal closed and when Hiraani touched them he was taken somewhere else. Didn't seem to happen to anyone else.**
-*   **There are different types of shards that would allow powers to work across planes, harness the powers of the other realms and even move between the two. This one is of the Shadowfell and can be only used by people who have a part of the Shadowfell in them or are completely of that plane. There are Feywild Shards and Astral Shards as well. They are very rare.**
+* Graa found himself with a magic coin from the Feywild that had been taking his money. Rubbing it he found himself in a Dragons layer piled with gold and gems
+* The sexy poo event happened...
+* **The choker when broken down appeared to have enchantment magic not made on this plane. It came from the Shadowfell and also had essences of Fey magic. This makes no sense as the realms are split and should not be able to interact with each other.**
+* **They explained they found crystal shards after the portal closed and when Hiraani touched them he was taken somewhere else. Didn't seem to happen to anyone else.**
+* **There are different types of shards that would allow powers to work across planes, harness the powers of the other realms and even move between the two. This one is of the Shadowfell and can be only used by people who have a part of the Shadowfell in them or are completely of that plane. There are Feywild Shards and Astral Shards as well. They are very rare.**
 
 #### Theives Guild
-
- 
 
  Upon leaving, the group noticed a group fo people huddled around a notice board with lots of blueprints and maps of different areas of Aldabra. Trying to get closer, a huge Goliath with a massive sword came in front to block their movement. After some awkward and dumb conversation they gave up and moved towards the entrance. Looking back they could see a woman, wearing a pirate style hat and tunic with long wavy brown hair look up and give a smile and shake of the head as she watched them leave.  
 
  The group decided to spend their reward money on new tattoos.  
 
 #### Library
-
- 
 
  Crispin said he is leaving in the next day or 2 and asks if they will come with him to Medeis. **He thinks the 3 of them are important to these events and wants them to explore the possibility of something being on that ship that Hiraani tried to save and was the last thing to happen before these events. He asks if they would be willing to see what that ship contains. Any time he enquires about the ship from his contacts, they go cold and say they know nothing. He needs a group powerful enough to exploire and check that nothing is awry with it. That area is also on the continent and close to where Hiraani was raised, so maybe they can look into Hiraani's history, the shards and also this at the same time?**  
 

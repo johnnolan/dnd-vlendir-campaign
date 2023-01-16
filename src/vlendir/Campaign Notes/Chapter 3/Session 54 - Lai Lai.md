@@ -26,20 +26,18 @@ Surrounded in a feywild forest with a small lake and a small island in the middl
 
  Asking them to come in they talk about his time there.  
 
-*   He is from Glimmerfall and loves that he has seen another tiefling outside of there
-*   He talks about Glimmerfall and its ruch in food jungle and water. It has a portal there to the Feywild and everything is amazing there all the time
-*   Everyone dances, sings and makes music
-*   A mix of all races, Orc, Tiefling, Halfling, Elves (Eldarin) and half breeds throughout
-*   Fey creatures come and go through the portal as do others from this realm
-*   He has been really bad at keeping logs, much to Hiraani's anger
-*   He has done some paintings portraing his experiences, all of which show him mostly naked with a very ripped and flattering image
-*   He insisted he is Hiraanis best friend... that is doubtful though
-*   Lorena took to braiding his beard with seashells while he cooked and poured them wine
-*   He mentions about some sailors who are camped just north of here who got attacked by a giant crab and are trying to figure out how to repair their ship without being caught by it
-*   He mentions how ever since Hiraani left, there have been tales of normal sea creatures being bigger and angrier, strange waprings of their natural abilities.
-*   Most sailors now steer clear of this area in fear they could be caught by a evil sea creature
-
- 
+* He is from Glimmerfall and loves that he has seen another tiefling outside of there
+* He talks about Glimmerfall and its ruch in food jungle and water. It has a portal there to the Feywild and everything is amazing there all the time
+* Everyone dances, sings and makes music
+* A mix of all races, Orc, Tiefling, Halfling, Elves (Eldarin) and half breeds throughout
+* Fey creatures come and go through the portal as do others from this realm
+* He has been really bad at keeping logs, much to Hiraani's anger
+* He has done some paintings portraing his experiences, all of which show him mostly naked with a very ripped and flattering image
+* He insisted he is Hiraanis best friend... that is doubtful though
+* Lorena took to braiding his beard with seashells while he cooked and poured them wine
+* He mentions about some sailors who are camped just north of here who got attacked by a giant crab and are trying to figure out how to repair their ship without being caught by it
+* He mentions how ever since Hiraani left, there have been tales of normal sea creatures being bigger and angrier, strange waprings of their natural abilities.
+* Most sailors now steer clear of this area in fear they could be caught by a evil sea creature
 
  The group ate and talked before going to bed.  
 

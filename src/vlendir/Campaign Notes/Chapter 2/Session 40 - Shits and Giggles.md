@@ -98,8 +98,6 @@ Taking a breath, the group decided to make their way outside to let everyone kno
 
 [![](/uploads/images/e9b1acef0c9d236b0953436d8e097b08.jpg "AldabraCity.jpg")](/i/2938614 "AldabraCity.jpg")
 
- 
-
 [![](/uploads/images/3e0593f42fea5787ca28acaab596e982.jpg "aldabra_estate.jpg")](/i/2938609 "aldabra_estate.jpg")
 
 **Report Date**

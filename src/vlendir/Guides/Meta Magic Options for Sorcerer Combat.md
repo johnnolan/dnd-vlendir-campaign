@@ -7,7 +7,6 @@ eleventyNavigation:
 
 ## External Resource of all the things as well
 
-
 **[https://rpgbot.net/dnd5/characters/classes/sorcerer/metamagic/](https://rpgbot.net/dnd5/characters/classes/sorcerer/metamagic/)**
 
 ## Overview

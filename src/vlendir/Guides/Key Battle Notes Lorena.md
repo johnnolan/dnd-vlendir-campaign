@@ -29,7 +29,7 @@ If you spend at least 1 minute observing or interacting with another creature ou
 
 When a creature within 5 ft. of you makes an attack against a target other than you, you can use your reaction to make a melee weapon attack against the attacking creature.
 
-### Sweeping Attach - Supe Die - Roll a 1 or 2 for damage? Roll again!
+### Sweeping Attach - Supe Die - Roll a 1 or 2 for damage? Roll again
 
 When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
 

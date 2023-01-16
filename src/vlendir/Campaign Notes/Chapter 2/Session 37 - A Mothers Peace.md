@@ -38,9 +38,9 @@ As the adventurers stood at the top of the 100ft stairs going down underground, 
 
  To call The Keeper, Graa threw a stick into the water, teasing Doge. As he did, Doge ran right up to the water and stopped. Looking back at Graa, he shook his head and wandered back to his sitting place and bowl of food.  
 
-*   Question 1: Is the ghost they saw previous of any concern - No
-*   Question 2: These boats, have the been used recently? - No
-*   Question 3: Could we make it across this lake in one day? - Yes
+* Question 1: Is the ghost they saw previous of any concern - No
+* Question 2: These boats, have the been used recently? - No
+* Question 3: Could we make it across this lake in one day? - Yes
 
 After the commune, noticing Graa looked upset, he attempted to quickly knock the tod out of his hand to prevent any anger. Seeing him do this, Graa realises and throws it to the floor. Looking closer he sees the Tod Medley and becomes somewhat angry.  
 
@@ -88,15 +88,9 @@ After the commune, noticing Graa looked upset, he attempted to quickly knock the
 
  As the group fell silent, they watched and waited for the next hour as the time between each breath got longer... and longer... until finally, there were no more breaths.
 
- 
-
 [![](/uploads/images/e5fc6ce6e8b9a4a99edd79ccc76672e2.jpg "Lila Tengo")](/i/2699592 "Lila Tengo")
 
- 
-
 [![](/uploads/images/8ac0beff41e07aa43f278aa74ba80405.png "Uldon Tengo")](/i/2699599 "Uldon Tengo")
-
- 
 
 [![](/uploads/images/e243080fca97bab50c1a627e150943f9.jpg "Jorus Underground.jpg")](/i/2738297 "Jorus Underground.jpg")
 

@@ -14,14 +14,12 @@ Walking into the room next to them, they went to face the monstrosity.  
 
  Key points
 
-*   Duzokin claims he was trapped in the crystal for 2000 years
-*   He was awaiting someone powerful to come and release him
-*   He recognises Lorena as a descendant of Jeb Aldabra who he claims locked him in the crystal
-*   He also hints that Graa knows someone who was part of the 3 who banished him into this crystal
-*   He appears to be locked too the crystal, he seems to have found the ability to get himself out but not fully removed from its hold on him. He talks about killing others and using their energy to free himself. He can then use the power of the crystal to make him even stronger.
-*   After he defeats them he will find the other two crystals and become unstoppable, this being the Shadowfell crystal and the others the Feywild and Astral Shards
-
- 
+* Duzokin claims he was trapped in the crystal for 2000 years
+* He was awaiting someone powerful to come and release him
+* He recognises Lorena as a descendant of Jeb Aldabra who he claims locked him in the crystal
+* He also hints that Graa knows someone who was part of the 3 who banished him into this crystal
+* He appears to be locked too the crystal, he seems to have found the ability to get himself out but not fully removed from its hold on him. He talks about killing others and using their energy to free himself. He can then use the power of the crystal to make him even stronger.
+* After he defeats them he will find the other two crystals and become unstoppable, this being the Shadowfell crystal and the others the Feywild and Astral Shards
 
  Using the orbs to fight off the curse for Hiraani, they beat the Demon Duzakin releasing Jor from his grasp and freeing Hiraani from his curse.  
 

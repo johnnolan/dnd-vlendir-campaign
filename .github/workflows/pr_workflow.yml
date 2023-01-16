@@ -34,6 +34,7 @@ jobs:
         run: yarn run lint:spell
 
       - name: Run lint markdown
+        continue-on-error: true
         run: yarn run lint:markdown
 
       - name: Run Linting

@@ -13,8 +13,6 @@ If you are struggling with being creative and just want to get some basic high l
 
 **Q1: Why is your character adventuring? (required)**
 
-
-
 **Q2: What motivates your character? (required)**  
 _(select 3 max)_
 

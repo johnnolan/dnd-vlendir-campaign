@@ -50,10 +50,10 @@ Read the diary of the fallen enemy  
 
  Being caught out in their line of sight and taking some heavy nacrotic damage they dispatched the creature with the other skeletons and proceeded to look in a check behind collecting  
 
-*   Oil of Sharpness
-*   Adamantine Half Plate +1
-*   500gp of Diamond Gems
-*   1,000 gp
+* Oil of Sharpness
+* Adamantine Half Plate +1
+* 500gp of Diamond Gems
+* 1,000 gp
 
 **Report Date**
 

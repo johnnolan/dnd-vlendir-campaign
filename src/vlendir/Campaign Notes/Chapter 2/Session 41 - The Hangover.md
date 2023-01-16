@@ -44,13 +44,7 @@ As Crispin welcomes them all and says "Hi Son, how are you" to Graa, they begin 
 
  Finishing up conversations they parted ways and headed out for the day.  
 
-  
-
 ### Thieves Guild
-
- 
-
-  
 
  Making there way over to the thieves guild, they managed to find the entrance talked about and after a short introduction with 2 characters, managed to get led back to The Serpent and access a downstairs cellar behind a fake wall.  
 
@@ -62,25 +56,15 @@ As Crispin welcomes them all and says "Hi Son, how are you" to Graa, they begin 
 
 ### Tattoos
 
- 
-
  Hiraani and Lorena each got a tattoo. Hiraani got a Shadowfell Tattoo, a broken shard at the bottom of his neck and Lorena got a Ghost Step Tattoo. A back piece with a massive moon, shining, on a forest with a shadow of a person and no body in the forest.  
-
-  
 
 ### Shopping
 
- 
-
 #### Magic Shop
-
- 
 
  Hiraani bought Cloak of the Manta Ray (collect the next day) Lorena bought Cloak of the Manta Ray (collect the next day) and a ring of cold resistance (collect the next day) Graa bought a Cap of Water Breathing  
 
 ### Library
-
- 
 
  Graa and Hiraani made their way into the Library while Lorena had her tattoo. Finding Crispin in a side room, Graa and Hiraani go in to say hello.  
 
@@ -95,10 +79,6 @@ As Crispin welcomes them all and says "Hi Son, how are you" to Graa, they begin 
  Back in the Library, Hiraani searched for Shards and the Rebalancing. About the Shards, he finds out that these were common for the first couple of hundred years after the Rebalancing. Creatures would use them to go back and forth and use power from the planes in this one. Each time they were defeated the shards were destroyed or hidden from use. He also found a small snippet of a reference to their being a use of the different shards just before the Rebalancing but that is it.  
 
  Graa searched for information on sea monsters and now had the ability to know the strengths and weaknessess of common sea creatures in Vlendir.  
-
-  
-
-  
 
  As they finished their shopping, they made their way back to Lorena's room to sleep for the night. Not before a little trip to the Ocean Breeze.  
 

@@ -30,8 +30,6 @@ The next day the group awake to hear of a new forest grown south of Aldabra from
 
 ### Jinlon
 
- 
-
  Over rolling hills they slowly left the main roads to dirt tracks before nearing Jinlon.  
 
  As they got a days ride out, they entered a circle of trees with a meadow in the middle. In the center stood a well and looking closer a fight between a Elf girl, her pet wolf and 4 Drow.  
@@ -52,8 +50,6 @@ The next day the group awake to hear of a new forest grown south of Aldabra from
 
  Shenar (F) - a minor elven goddess of rune and conjuration magic. She was a nearly-forgotten member of the Seldarine, as most elves practicing magic called upon Corellon Larethian for aid.  
 
-  
-
  They make thir way to the Shenar temple where rumour of the drow is present. Graa recognises markings of Kiaransee and they proceed to explore inside and end up fighting an undead Drider that has been taunting Hiraani over his curse.  
 
  After destroying the Drider, they notice a small stone figurine of Tarsellis, the god that the residents of Jinlon worship, specifically the type that Jaal uses.  
@@ -64,11 +60,9 @@ The next day the group awake to hear of a new forest grown south of Aldabra from
 
  They sneak into the temple that night and find hidden in one of Jaals private studies  
 
-*   A book on Drow Necromancy and the practices of it
-*   Books with Drow symbols
-*   Various Drow symbols and artifacts that look to be collected
-
- 
+* A book on Drow Necromancy and the practices of it
+* Books with Drow symbols
+* Various Drow symbols and artifacts that look to be collected
 
  Having the proof, they try and escape the rooms with Graa being a bit more risky with hiding under beds and a little happy accident. However they all make it into the main chamber as Jaal chases out and are met by Fvente, Jor, Sha'a and Ti'an.  
 
@@ -86,26 +80,22 @@ The next day the group awake to hear of a new forest grown south of Aldabra from
 
  Key points  
 
-*   **Duzokin claims he was trapped in the crystal for 2000 years**
-*   He was awaiting someone powerful to come and release him
-*   **He recognises Lorena as a descendant of Jeb Aldabra who he claims locked him in the crystal**
-*   **He also hints that Graa knows someone who was part of the 3 who banished him into this crystal**
-*   **He appears to be locked too the crystal, he seems to have found the ability to get himself out but not fully removed from its hold on him. He talks about killing others and using their energy to free himself. He can then use the power of the crystal to make him even stronger.**
-*   **After he defeats them he will find the other two crystals and become unstoppable, this being the Shadowfell crystal and the others the Feywild and Astral Shards**
-
- 
+* **Duzokin claims he was trapped in the crystal for 2000 years**
+* He was awaiting someone powerful to come and release him
+* **He recognises Lorena as a descendant of Jeb Aldabra who he claims locked him in the crystal**
+* **He also hints that Graa knows someone who was part of the 3 who banished him into this crystal**
+* **He appears to be locked too the crystal, he seems to have found the ability to get himself out but not fully removed from its hold on him. He talks about killing others and using their energy to free himself. He can then use the power of the crystal to make him even stronger.**
+* **After he defeats them he will find the other two crystals and become unstoppable, this being the Shadowfell crystal and the others the Feywild and Astral Shards**
 
  After defeating him, Hiraani finds himself beating his curse gaining control of the power, however there will always be a small part of that darkness inside of him that will never quite go.  
 
  As they leave and return to Jinlon they find Nambil Dayvon is waiting for them. He has come back from A'halin with a group of 50 warriors. He had forseen what would happen and awaited their coming. He says  
 
-*   They have made contact with Lorena's father, Monty
-*   Monty told the Conclave about what you have found, that there is something going on with this Varalla and people are being controlled
-*   They are sending troops to all villages around Emerald Isle
-*   Sending emissaries to Bhurgarom
-*   Corellon has lived through the days of when the realms were one, she is preparing for these rifts to open and each land will aid in keeping them at bay
-
- 
+* They have made contact with Lorena's father, Monty
+* Monty told the Conclave about what you have found, that there is something going on with this Varalla and people are being controlled
+* They are sending troops to all villages around Emerald Isle
+* Sending emissaries to Bhurgarom
+* Corellon has lived through the days of when the realms were one, she is preparing for these rifts to open and each land will aid in keeping them at bay
 
  **After speaking about the Crystal they have found and the fact that Duzokin mentioned two more crystals, the Fey and the Astral, Nambil says it is of great urgence that they get that Fey Shard before any others do.**  
 
@@ -117,20 +107,18 @@ The next day the group awake to hear of a new forest grown south of Aldabra from
 
  Asking them to come in they talk about his time there.  
 
-*   He is from Glimmerfall and loves that he has seen another tiefling outside of there
-*   **He talks about Glimmerfall and its ruch in food jungle and water. It has a portal there to the Feywild and everything is amazing there all the time**
-*   **Everyone dances, sings and makes music**
-*   **A mix of all races, Orc, Tiefling, Halfling, Elves (Eldarin) and half breeds throughout**
-*   **Fey creatures come and go through the portal as do others from this realm**
-*   He has been really bad at keeping logs, much to Hiraani's anger
-*   He has done some paintings portraing his experiences, all of which show him mostly naked with a very ripped and flattering image
-*   He insisted he is Hiraanis best friend... that is doubtful though
-*   Lorena took to braiding his beard with seashells while he cooked and poured them wine
-*   He mentions about some sailors who are camped just north of here who got attacked by a giant crab and are trying to figure out how to repair their ship without being caught by it
-*   **He mentions how ever since Hiraani left, there have been tales of normal sea creatures being bigger and angrier, strange waprings of their natural abilities.**
-*   Most sailors now steer clear of this area in fear they could be caught by a evil sea creature
-
- 
+* He is from Glimmerfall and loves that he has seen another tiefling outside of there
+* **He talks about Glimmerfall and its ruch in food jungle and water. It has a portal there to the Feywild and everything is amazing there all the time**
+* **Everyone dances, sings and makes music**
+* **A mix of all races, Orc, Tiefling, Halfling, Elves (Eldarin) and half breeds throughout**
+* **Fey creatures come and go through the portal as do others from this realm**
+* He has been really bad at keeping logs, much to Hiraani's anger
+* He has done some paintings portraing his experiences, all of which show him mostly naked with a very ripped and flattering image
+* He insisted he is Hiraanis best friend... that is doubtful though
+* Lorena took to braiding his beard with seashells while he cooked and poured them wine
+* He mentions about some sailors who are camped just north of here who got attacked by a giant crab and are trying to figure out how to repair their ship without being caught by it
+* **He mentions how ever since Hiraani left, there have been tales of normal sea creatures being bigger and angrier, strange waprings of their natural abilities.**
+* Most sailors now steer clear of this area in fear they could be caught by a evil sea creature
 
  Later that night at midnight, Lorena heard the distant cries of a creature out to see, hauntingly beautiful and painful at the same time.  
 
@@ -152,19 +140,11 @@ The next day the group awake to hear of a new forest grown south of Aldabra from
 
 ### Trilliths Tale
 
- 
-
  **Since this has happened he is trapped behind the fog but is thinking for himself again on and off, passing in and out. Know he must be killed, asks them to when he turns. He cannot go on corrupt like this.**  
-
-  
 
  **He speaks of the age before the rebalancing, 3000 years ago when Asmodeus, the lord of the nine hells, had his puppet break apart the weave and disrupt the flow on the material plane causing the Feywild and Shadowfell to all merge into one. The inner planes began to fall in on themselves, making a path for the lower planes and the Nine Hells to break through taking all.**  
 
-  
-
  **But a small group led by a Fallen Angel from Elysium created a device that could rebalance the ley lines. It did not fix it as they were not powerful enough.**  
-
-  
 
  **When it happened, I became trapped here like many others. Has the device been destroyed?**  
 

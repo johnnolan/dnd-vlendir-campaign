@@ -17,8 +17,6 @@ Turning to the water fountain in the corner, they went to look at it. Looking ar
 
 > I stay the same size no matter how much I weigh
 
- 
-
  After guessing a vast amount of words, the group finally shouted "Scales". With that the door way opened to them presenting a steep drop down into another chamber below.  
 
  Once again, Doge lead the way going down and after a few minutes came to indicate that all is clear.  
@@ -51,8 +49,6 @@ As Graa came too, he had memorised the circle. They looked at each other and dec
 
 > Together we will stand against this great evil. Together we will move forward, no longer stuck in a spiral of greed and mistrust. Gold runs through every decision of those most powerful and we have lost our way. Who we are! This is a new day, a new age for us all. We will harry them, confuse them, turn them to our cause. Let us rescue our loved ones from this tyranny and start anew, like we used to live. My daughter and her friends have come to us, powerful and righteous they will help us redefine the strength of The Jorus! Now go, our fastest riders, take our flag and this message to all lands in the Jorus. We attack in 6 days, be swift, we are taking back our home!
 
- 
-
  As the crowd cheered aloud, everyone immediately dispersed and grabbed their kit ahead of their ride. A group of riders ran to the tent to get smaller versions of the flags and scrolls before mounting their horses with a spare one for swapping on the fast journies they will need to do to spread the word.  
 
  As they returned to the tent, Lorena sees walking towards her, Mali Crawford, Bryce's sister, with a baby in her arms. She explains to Lorena that she is now married to her brother, Elis and they are in love. She isn't like her family, she hates them and Bryce most of all. She is here to protect her new born daughter, before offering Brie to Lorena saying she is now an Aunty. Lorena emotional takes Brie in her arms and accepts Mali in with her.  
@@ -71,11 +67,9 @@ As Graa came too, he had memorised the circle. They looked at each other and dec
 
  Holding the turtle as a commune focus, he found himself drift away. Looking down, he doesn't see the same aura as Lorena explained of seeing last time.  
 
-*   Question 1: Can this turtle communicate with the Feywild - No
-*   Question 2: Does this turtle come from the Feywild - No
-*   Question 3: Does this turtle have a connection with Dragons? - Yes
-
- 
+* Question 1: Can this turtle communicate with the Feywild - No
+* Question 2: Does this turtle come from the Feywild - No
+* Question 3: Does this turtle have a connection with Dragons? - Yes
 
  Handing Dragon over to Lorena, she decides to use her armour ability to detect dragons within the area.  
 
@@ -87,9 +81,9 @@ As Graa came too, he had memorised the circle. They looked at each other and dec
 
  She attempted to commune once more and this time succeeded, feeling a strong connection with Dragon and appearing in the Fey dream with Dragon their too.
 
-*   Question 1: Did you send this to aid us? - No
-*   Question 2: Can we accelerate his growth? - No
-*   Question 3: Is this turquoise aura able to protect us? - No
+* Question 1: Did you send this to aid us? - No
+* Question 2: Can we accelerate his growth? - No
+* Question 3: Is this turquoise aura able to protect us? - No
 
 Coming to, she looks down and sees Dragon just staring at her blankly.  
 

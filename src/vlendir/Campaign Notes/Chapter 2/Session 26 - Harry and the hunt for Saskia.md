@@ -10,17 +10,17 @@ eleventyNavigation:
 
 Before making their way downstairs, Lorena attempted to commune in her room
 
-*   The elven druid, is she involved with the demons? - No
-*   If we can find her, can we win her over to us? - Indifferent
-*   The Mayor said she is surrounded by the magical barrier, is there anything special we need to do? - Indifferent
+* The elven druid, is she involved with the demons? - No
+* If we can find her, can we win her over to us? - Indifferent
+* The Mayor said she is surrounded by the magical barrier, is there anything special we need to do? - Indifferent
 
 As the party awoke and made their way downstairs, Ivan met them downstairs to a table full of breakfast and are welcomed by Ivan.  
 
  As they sat at the table, Hiraani communed in front of everyone
 
-*   Are the villagers under a curse? - No
-*   The wolf creature? Is that part of the Fey? - No
-*   The barrier, is that Fey magic like before? - Indifferent
+* Are the villagers under a curse? - No
+* The wolf creature? Is that part of the Fey? - No
+* The barrier, is that Fey magic like before? - Indifferent
 
 As he came to, Ivan stared strangely towards them and continued eating.  
 
@@ -29,8 +29,6 @@ As he came to, Ivan stared strangely towards them and continued eating.  
  They asked for more information about Saskia, finding out she was over 800 years old and must have made a pact with the demons. Seeing the complete distrust in her, they pushed further and began to wonder whether he was actually telling the truth.  
 
  At that point, a young scruffy serving lad entered the room to take some plates away and tripped over Graa on his way out. Graa immediately grabbed the boy and putting his hand in the communal tod pot of justice, he got a hand full of Tod and smashes it in his face. To Graa's surprise he laughs at what happened, appologises and runs into the kitchen.  
-
-  
 
  Ivan then excused himself and left to do work around town.  
 
@@ -48,9 +46,9 @@ As he came to, Ivan stared strangely towards them and continued eating.  
 
  Setting up camp Graa settled down to commune, to start the ritual he tricked Harry into sitting under an acorn tree before using a cantrip to shake the acrons on his head.
 
-*   Is Saskia known as a powerful druid? - Yes
-*   Are we far from her? - No
-*   Is this boy suited to be molded in our way of thinking - Oh yes!
+* Is Saskia known as a powerful druid? - Yes
+* Are we far from her? - No
+* Is this boy suited to be molded in our way of thinking - Oh yes!
 
 They all settled down with Harry camping down with Graa.  
 
@@ -80,9 +78,9 @@ They all settled down with Harry camping down with Graa.  
 
  Double checking that she is truthful, Lorena decided to commune
 
-*   Can we trust Saskia? - Yes
-*   Is the werewolf Ivan? - Unsure
-*   Can the Hell Hounds that were converted from villages be brought back? - Unsure
+* Can we trust Saskia? - Yes
+* Is the werewolf Ivan? - Unsure
+* Can the Hell Hounds that were converted from villages be brought back? - Unsure
 
 The group discussed the potential of taming the Griffin they heard about and settled down for the night ahead of a day of a great battle.
 

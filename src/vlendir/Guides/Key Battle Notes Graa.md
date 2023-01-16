@@ -15,7 +15,7 @@ You have resistance to Fire
 
 Once per long rest, you can gain advantage on one attack roll, ability check, or saving throw.
 
-### Sorcerer Points!
+### Sorcerer Points
 
 #### Empowered Spell - Reroll your dice
 

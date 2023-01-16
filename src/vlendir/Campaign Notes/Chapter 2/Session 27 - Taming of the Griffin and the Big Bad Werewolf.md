@@ -13,12 +13,8 @@ As the group awoke the next morning, they discussed the idea of trying to tame t
  As they talked, the group noticed a note on the table  
 
 >  
-> 
->  "I can do it Graa, I will spread the rumour for you, I promise. You kill that twat! (Sorry for the language Saskia)".
-
- 
-
-  
+>
+> "I can do it Graa, I will spread the rumour for you, I promise. You kill that twat! (Sorry for the language Saskia)".
 
  Harry had decided to try and help them by going to the town during the night.  
 

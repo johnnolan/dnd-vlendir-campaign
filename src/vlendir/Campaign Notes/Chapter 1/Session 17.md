@@ -32,13 +32,9 @@ The adventurers picked up from their last session exploring the 4 tombs of the d
 
 > Lorena Aldabra, Orc Foe. You claim the Dragonkin armour? Do you claim to be worthy and all that it represents?
 
- 
-
  Upon saying she is worthy, the armour she had seen appeared on her body as well as the sword she had reached out to. Sensing it needed a command word, she muttered the word "Armageddon" and the blde lit with fire.  
 
 > Then prove it!
-
- 
 
  The dragon muttered and calmly it went in for the attack.  
 
@@ -51,8 +47,6 @@ The adventurers picked up from their last session exploring the 4 tombs of the d
  She smiled as she approaches with a warm look upon her face. As she placed her hand on Lorena's shoulder she said.  
 
 > I am Lady Tanamere Alagondar. You have earned your place among us, but your journey has just begun. Take this armour and sword and use it for good. Like others, not all dragons are evil, some are good, some have been corrupted. We will be with you on your journey as long as you wear it and do good by the world. There is change coming in the world, you will need to be ready. Keep learning and you will be gifted with more while you wear this armour. Go, show the world what you can truly be. I see you, Lady Lorena Aldabra, Orc Foe, Dragon Slayer.
-
- 
 
  With that Lorena was thrust back into reality with what seemed like no time passing. Graa and Hiraani shocked to instantly see the armour upon Lorena instantly and the sword in her hand fire blazing from it.  
 

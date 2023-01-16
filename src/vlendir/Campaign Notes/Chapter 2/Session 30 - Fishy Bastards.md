@@ -41,10 +41,10 @@ As they set sail on their first journey on a ship together, the sun set in the d
  Wondering about the reasons why there was a skeleton there, they go to investigate and find a note by the skeleton.  
 
 > 12 years, 12 years it has taken me, but it is finally complete. A way for me to return once I rescue my love. She will be waiting still? Of course she will, how would she not be waiting, she loves me. 12 years is no time to wait in prison for me. I have spent 12 years underground building us a way out once I reach her.  
-> 
->  I just need to touch her. Once I do we will return here.  
-> 
->  I must protect the circle while I am gone. I cannot risk it being found... I have an idea... I will be with you soon, my love.
+>
+> I just need to touch her. Once I do we will return here.  
+>
+> I must protect the circle while I am gone. I cannot risk it being found... I have an idea... I will be with you soon, my love.
 
 **Report Date**
 

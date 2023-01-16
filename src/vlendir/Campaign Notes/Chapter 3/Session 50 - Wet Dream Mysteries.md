@@ -22,11 +22,9 @@ The group cast Pass without a Trace and entered into the temple. Knowing [Jaal D
 
  Lorena opening the chest finds
 
-*   A book on Drow Necromancy and the practices of it
-*   Books with Drow symbols
-*   Various Drow symbols and artifacts that look to be collected
-
- 
+* A book on Drow Necromancy and the practices of it
+* Books with Drow symbols
+* Various Drow symbols and artifacts that look to be collected
 
  Lorena takes the entire chest and moves it into the hole and also any books on Drow and Orcs.  
 

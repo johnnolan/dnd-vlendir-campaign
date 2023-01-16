@@ -7,7 +7,7 @@ eleventyNavigation:
 
 ## Conjure Spirit Creature - Get Doge or any other animal that may benefit to the Quest or environment
 
-Different scenarios can allow for different animal choices. Choices are here https://www.dndbeyond.com/feats/558008-spirit-creature
+Different scenarios can allow for different animal choices. Choices are here <https://www.dndbeyond.com/feats/558008-spirit-creature>
 
 ## Primal Awareness - You can search for particular creatures within a distance
 
