@@ -9,12 +9,12 @@ function getDirectories(path) {
       console.log(dir);
 
       navPages.push({
-        "key": file,
-        "url": "",
-        "title": "",
-        "children": []
-      })
-      
+        key: file,
+        url: "",
+        title: "",
+        children: [],
+      });
+
       //createMd(path + "/" + file, dir);
     }
   });

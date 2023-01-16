@@ -1,6 +1,5 @@
 const dateFilter = require('./src/filters/date-filter.js');
 const date24HourFilter = require('./src/filters/date24Hours-filter.js');
-const startsWith = require('./src/filters/startsWith.js');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/_includes/css": "assets" });
@@ -9,8 +8,6 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addWatchTarget("./src/");
 
-
-  eleventyConfig.addFilter("startsWith", startsWith);
   eleventyConfig.addFilter("log", (value) => {
     console.log(value);
   });
