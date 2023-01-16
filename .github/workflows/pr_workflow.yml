@@ -30,9 +30,6 @@ jobs:
         if: steps.cache.outputs.cache-hit != 'true'
         run: yarn install
 
-      - name: Run Spell Checking
-        run: yarn run lint:spell
-
       - name: Run lint markdown
         continue-on-error: true
         run: yarn run lint:markdown
@@ -61,7 +58,7 @@ jobs:
         env:
           BODY_PREFIX: '<!-- pa11y-ci results -->'
           OWNER: 'johnnolan'
-          REPO: 'johnnolan.dev'
+          REPO: 'dnd-vlendir-campaign'
         with:
           script: |
             const script = require('./.github/workflows/scripts/pa11y-ci.js')

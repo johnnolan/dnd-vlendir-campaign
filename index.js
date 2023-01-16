@@ -10,23 +10,6 @@ var turndownService = new TurndownService({
     node.isBlock && node.matches("SPAN") ? node.outerHTML : "\n\n",
 });
 
-/*turndownService.addRule("t", {
-  filter: function (node, options) {
-    if (node.nodeName === 'SPAN' 
-    //&&    node.getAttribute('class')?.indexOf('line-spacer') > -1
-    ) {
-    console.log(node.getAttribute('class'))
-    }
-    return (
-        node.nodeName === 'SPAN' &&
-      node.getAttribute('class')?.indexOf('line-spacer') > -1
-    )
-  },
-  replacement: function (content) {
-    return `\r\n` + content + "\r\n";
-  },
-});*/
-
 function getDirectories(path) {
   return fs.readdirSync(path).filter(function (file) {
     if (fs.statSync(path + "/" + file).isDirectory()) {
