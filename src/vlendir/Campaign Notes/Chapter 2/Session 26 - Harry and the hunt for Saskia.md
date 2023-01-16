@@ -84,6 +84,6 @@ They all settled down with Harry camping down with Graa.  
 
 The group discussed the potential of taming the Griffin they heard about and settled down for the night ahead of a day of a great battle.
 
-**Report Date**
+## Report Date
 
 27 Jul 2021

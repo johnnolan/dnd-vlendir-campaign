@@ -28,6 +28,6 @@ The Adventures started off from their battle and investigated a stone pillar whi
 
 Dwarven Excavation
 
-**Report Date**
+## Report Date
 
 02 Feb 2021

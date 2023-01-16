@@ -96,10 +96,6 @@ Taking a breath, the group decided to make their way outside to let everyone kno
 
  Coming out they made their way over tot he Aldabra estate for potential breakfast. Entering into the house, Lorena led them to the main eating chamber where they were met with Monty, Ania, Ifen, Rab and in the corner Crispin. "My student returns! You have been busy!"
 
-[![](/uploads/images/e9b1acef0c9d236b0953436d8e097b08.jpg "AldabraCity.jpg")](/i/2938614 "AldabraCity.jpg")
-
-[![](/uploads/images/3e0593f42fea5787ca28acaab596e982.jpg "aldabra_estate.jpg")](/i/2938609 "aldabra_estate.jpg")
-
-**Report Date**
+## Report Date
 
 06 Dec 2021

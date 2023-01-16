@@ -36,6 +36,6 @@ As they preparred to leave, they asked for anyone who may be able to help. He sa
 
  Looking through the loot they found a Belt of the Serpant that Hiraani claimed and gave his strength belt to Lorena. Among the other loot they find a ball bearing which when dropped appears to return back to the owner. Suited up they saw a set of stairs leading down and approached it ready to go underground.
 
-**Report Date**
+## Report Date
 
 14 Sep 2021

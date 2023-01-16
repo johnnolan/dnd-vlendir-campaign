@@ -20,6 +20,6 @@ As the adventurers stood outside the Inn, they decided to approach the Town Majo
 
  As they made their way towards Icespire Peak, they ran into what appeared to be a group of mercenaries who sprung an attack on them. Getting caught in bear traps and Hiraani taking some solid blows from their longbows, they dispatched them all. With the last fighter running for his life, Ulla fired a freezing spell that slowed his speed enabling the group to cut him down.
 
-**Report Date**
+## Report Date
 
 03 May 2021

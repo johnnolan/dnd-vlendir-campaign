@@ -30,6 +30,6 @@ After they had slane the boar the adventurers continued to search the 3 caverns 
 
  On one of the Acholites they found a Ring of Mist.
 
-**Report Date**
+## Report Date
 
 18 Apr 2021

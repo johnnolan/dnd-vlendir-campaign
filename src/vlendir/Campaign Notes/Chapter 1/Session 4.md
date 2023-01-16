@@ -12,7 +12,7 @@ Upon leaving the cave of the Dwarven Excavation site, the adventurers saw in the
 
  They went down to look at the wall but found it magical in essence and unable to scale, dig under or damage it.  
 
- They made their way back to town to rest for the night where they met a young Dwarf named [Elva Gwennip](/w/vlendir-drusslegend/a/elva-gwennip-person-1). She shared her passion for wanting to find a new life here, work hard and find her place. She seemed distant and thoughtful and after some light chat, went to bed.  
+ They made their way back to town to rest for the night where they met a young Dwarf named. She shared her passion for wanting to find a new life here, work hard and find her place. She seemed distant and thoughtful and after some light chat, went to bed.  
 
  Adabra Gwynn, a midwife and apothecary devoted to Chauntea could be seen screaming help from the old stone windmill while a [Manticore](https://www.dndbeyond.com/monsters/manticore) could be seen flying around trying to get to her.  
 
@@ -26,10 +26,6 @@ Upon leaving the cave of the Dwarven Excavation site, the adventurers saw in the
 
 [potion of healing](https://www.dndbeyond.com/equipment/potion-of-healing)
 
-**Report Date**
+## Report Date
 
 09 Feb 2021
-
-**Secondary Location**
-
-[Umbrage Hill](/w/vlendir-drusslegend/a/umbrage-hill-settlement-1)

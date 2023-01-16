@@ -18,6 +18,6 @@ After waking from his vision, Graa S'oua found himself lose control and cast a s
 
  Upon reaching Mountain’s Toe Gold Mine they entered to find the place taken over by Wererats. After a tough first fight killing 2 of them, they carried on and encountered more and their leader. After trying to capture one of them with a net, they realised the only solution was violence and iradicated every one of them.
 
-**Report Date**
+## Report Date
 
 02 Mar 2021

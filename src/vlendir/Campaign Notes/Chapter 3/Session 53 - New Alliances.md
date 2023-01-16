@@ -40,6 +40,6 @@ After speaking about the Crystal they have found and the fact that Duzokin menti
 
  The group then set off towards the lighthouse while wondering who these 3 who locked up Duzokin may have been.
 
-**Report Date**
+## Report Date
 
 28 Dec 2022

@@ -53,8 +53,6 @@ The group pick themselves up and make their way out of the temple to rest and re
 
  As they tie the horses up leaving Doge to keep watch, they sneak into Jinlon and setup in a bush watching the entrance for Jor to come out. As she does, they see her arguing with her sister, [Ti'an](/w/vlendir-drusslegend/a/ti-an-person) and in the early evening light they prepare to enter the temple.
 
-[![](/uploads/images/d3237d7c9c6e3c70ef8d1ce5ccebd2a4.jpg "Jinlon Temple Camp.jpg")](/i/3415890 "Jinlon Temple Camp.jpg")
-
-**Report Date**
+## Report Date
 
 08 Jun 2022

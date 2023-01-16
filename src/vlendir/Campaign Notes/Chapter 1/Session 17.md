@@ -60,6 +60,6 @@ The adventurers picked up from their last session exploring the 4 tombs of the d
 
  [Necklace of Fireballs](https://www.dndbeyond.com/magic-items/necklace-of-fireballs)
 
-**Report Date**
+## Report Date
 
 27 Apr 2021

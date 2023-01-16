@@ -25,8 +25,6 @@ Walking into the room next to them, they went to face the monstrosity.  
 
  Hiraani feels the release of his shackles and even though that darkness will never be gone, he now has control over it.
 
-[![](/uploads/images/e16828d95c38645c246a950f879c8e53.jpg "Llurth Dreir Source.jpg")](/i/4044385 "Llurth Dreir Source.jpg")
-
-**Report Date**
+## Report Date
 
 28 Dec 2022

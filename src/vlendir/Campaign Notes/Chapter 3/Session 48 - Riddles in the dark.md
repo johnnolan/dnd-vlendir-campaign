@@ -32,10 +32,8 @@ Continuing walking down the long dark tunnel, they walk towards the large hand m
 
  They find the following loot in the cavern  
 
- \* Lovers Pottery Wheel
+- Lovers Pottery Wheel
 
-[![](/uploads/images/0bcf016bb280d35a1f658ce304b7545f.jpg "Shenar Shrine.jpg")](/i/3338094 "Shenar Shrine.jpg")
-
-**Report Date**
+## Report Date
 
 09 Mar 2022

@@ -66,8 +66,6 @@ The group cast Pass without a Trace and entered into the temple. Knowing [Jaal D
 
  Roll initiative.
 
-[![](/uploads/images/49bf8d5a43b85d8a93596631019a97d2.jpg "Jinlon Temple.jpg")](/i/3338092 "Jinlon Temple.jpg")
-
-**Report Date**
+## Report Date
 
 19 Jun 2022

@@ -95,6 +95,6 @@ Coming to, she looks down and sees Dragon just staring at her blankly.  
 
  As the hour goes by, Lorena lands safely 400 yards out and her wings retract. Walking the rest of the way, windswept, they step down into the temple once more, through the different chambers and approach the steps down from the summoning circle.
 
-**Report Date**
+## Report Date
 
 29 Sep 2021

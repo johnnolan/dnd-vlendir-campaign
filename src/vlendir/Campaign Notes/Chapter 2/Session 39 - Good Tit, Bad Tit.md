@@ -38,6 +38,6 @@ Turning to Lorena, Monty asks her not to kill him. Giving him her trident to lea
 
  As the group killed the Cambion finally, Amelie screamed in absolute anger as she flew down in front of her childs body lashing out. Lorena drew back her sword and with the first swipe dropped her to her knees, lifted her sword her and slammed it through her body, destroying her.
 
-**Report Date**
+## Report Date
 
 02 Nov 2021

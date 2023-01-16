@@ -42,6 +42,6 @@ Graa and Lorena arrive at his room, 4 walls, plain, one wall does look a little 
 
  Have a few drinks, the group get a good nights sleep and awake to a fresh morning.
 
-**Report Date**
+## Report Date
 
 06 Feb 2022

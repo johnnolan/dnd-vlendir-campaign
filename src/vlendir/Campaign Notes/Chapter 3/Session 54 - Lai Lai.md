@@ -61,10 +61,6 @@ Surrounded in a feywild forest with a small lake and a small island in the middl
 
  Roll Initiative!
 
-[![](/uploads/images/18c3dbd35173b1029bc76520b4eabfd5.jpg "jakosh_full.jpg")](/i/3255108 "jakosh_full.jpg")
-
-[![](/uploads/images/3b49c3c28e92752beb677bb1db22bceb.jpg "Leafell Lighthouse.jpg")](/i/3338080 "Leafell Lighthouse.jpg")
-
-**Report Date**
+## Report Date
 
 27 Apr 2022

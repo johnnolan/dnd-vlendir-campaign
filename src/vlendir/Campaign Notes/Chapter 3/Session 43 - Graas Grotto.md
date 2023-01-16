@@ -40,6 +40,6 @@ Lorena is awoken by her Trident and notices wrapped in a dark cloak, some sort o
 
  Climing up through a hole in one of the roofs of a section made completely of glass, they all look around a higher view of Medeis. Towering mountains to one side encirclling it, rolling hills descend to a beautiful sandy beach and dock.
 
-**Report Date**
+## Report Date
 
 19 Jan 2022

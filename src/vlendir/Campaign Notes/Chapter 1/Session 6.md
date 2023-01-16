@@ -28,6 +28,6 @@ During a nightmare, Hiraani found his way through a repeating dream of drowning,
 
 [Bag of Holding](https://www.dndbeyond.com/magic-items/bag-of-holding)
 
-**Report Date**
+## Report Date
 
 23 Feb 2021

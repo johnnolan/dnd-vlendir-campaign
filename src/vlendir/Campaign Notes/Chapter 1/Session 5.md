@@ -34,6 +34,6 @@ Book of wizard spells burning hands, detect magic, identify, mage armor, magic m
 
 Gnomeragarde
 
-**Report Date**
+## Report Date
 
 13 Feb 2021

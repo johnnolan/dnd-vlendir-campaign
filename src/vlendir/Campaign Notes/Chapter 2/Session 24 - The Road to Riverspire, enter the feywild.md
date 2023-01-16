@@ -89,6 +89,6 @@ Resigning themselves to sleep, they all rested to await what the next day brings
 
 [Casthion the shrimp](https://www.dndbeyond.com/monsters/1841377-casthion-the-shrimp)  
 
-**Report Date**
+## Report Date
 
 13 Jul 2021

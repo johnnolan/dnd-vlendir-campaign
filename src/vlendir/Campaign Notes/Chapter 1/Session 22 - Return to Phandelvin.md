@@ -56,6 +56,6 @@ As they stand there in shock under a full moon and Phandelvin burning, they deci
 
  The lead figure with a concerned look suddenly makes eye contact with Graa S'oua and jumping off his horse to run up and clasp him on his shoulder, greets Graa S'oua saying "Well met, Graa! Sorry, my name is Crispin"
 
-**Report Date**
+## Report Date
 
 01 Jun 2021

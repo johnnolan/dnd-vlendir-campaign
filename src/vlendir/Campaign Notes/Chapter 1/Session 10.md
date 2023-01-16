@@ -26,6 +26,6 @@ As the adventurers made their way through the rest of the cave system, they fina
 
  Worried that the Orcs may attack, the adventurers agreed to go ahead and visit the Shrine of Savras to irradicate the Orc incursion, arriving just after midday.
 
-**Report Date**
+## Report Date
 
 14 Mar 2021

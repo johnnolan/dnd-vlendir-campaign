@@ -44,10 +44,6 @@ The group wake up to the news of a forest growing out in the Jorus. They get up 
 
  But they were not alone... as the others slept, Lorena is woken suddenly by her Trident, jolting upright in the black of night.
 
-[![](/uploads/images/2718ca7eac6ef5f01b2745babdae1c47.jpg "Crwban Barrow.jpg")](/i/3338104 "Crwban Barrow.jpg")
-
-[![](/uploads/images/3b51a837195ece96dc2a0b6961576c82.jpg "HuntersLodge.jpg")](/i/3338107 "HuntersLodge.jpg")
-
-**Report Date**
+## Report Date
 
 09 Jan 2022

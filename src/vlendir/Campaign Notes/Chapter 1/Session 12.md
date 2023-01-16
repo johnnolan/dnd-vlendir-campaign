@@ -40,6 +40,6 @@ DM Learnings  
 
  When Graa tried to pick pocket my first reaction was shock and trying to prevent it. That isn't my choice, its the players and I should of been more flexible for this to happen. I set the seen, the story is the players.
 
-**Report Date**
+## Report Date
 
 23 Mar 2021

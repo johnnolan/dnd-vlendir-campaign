@@ -34,10 +34,6 @@ After fighting the giant crab, the group spend the rest of the day helping the c
 
  As they enter the fog they lose all visibility before coming out the other side of the fog to Bishops Tits, except the sky is red flashing with lighting high in the sky. Going onto shore, they look around before seeing in the distance coming towards them a Storm Giant.
 
-[![](/uploads/images/4888389ae9adc135803088606ad18e2f.webp "North-Sea-Island.webp")](/i/4047626 "North-Sea-Island.webp")
-
-[![](/uploads/images/8eb04507aa36a16e35aad8b8b82f5dd6.webp "the_wave_breaker_battle.webp")](/i/4047625 "the_wave_breaker_battle.webp")
-
-**Report Date**
+## Report Date
 
 28 Dec 2022

@@ -10,6 +10,6 @@ eleventyNavigation:
 
 Levelling up pub fun, this session had no role playing, just us levelling up and explaining the process, looking over skills, etc.
 
-**Report Date**
+## Report Date
 
 03 Feb 2021

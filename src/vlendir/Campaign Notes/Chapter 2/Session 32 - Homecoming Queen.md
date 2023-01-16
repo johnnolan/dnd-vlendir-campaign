@@ -56,6 +56,6 @@ As the group question the soldier, they are met with a strange hostility with al
 
  As they exicted out of the town through a gate out, they found their horses ready and tied up before charging full force away from Aldabra towards the Rebel camp to hopefully find more answers.
 
-**Report Date**
+## Report Date
 
 07 Sep 2021

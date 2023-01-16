@@ -16,6 +16,6 @@ The adventures picked off from last session by taking a short rest and searching
 
  Making their way even further they ran into a group of 5 rats and as Graa S'oua smote them into flames easily, they await what else is around the corner.
 
-**Report Date**
+## Report Date
 
 09 Mar 2021

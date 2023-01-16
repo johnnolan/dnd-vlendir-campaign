@@ -24,6 +24,6 @@ When it happened, I became trapped here like many others. But the device has bee
 
 They took down Trillith fast with a wise move to freeze him in place by Graa.
 
-**Report Date**
+## Report Date
 
 29 Dec 2022

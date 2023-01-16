@@ -34,6 +34,6 @@ Realising the horses are in the Portable Hole, Lorena quickly jumps through the 
 
  They all went for a drink before Hiraani left early after Lorena putting on her flag and cap embarrising him. Hiraani made his way to Graa's room asking for directions on the way back. Stepping in to his room, he notices the floor panel depress and trigger a net trap that he narrowly avoids. Stepping in with a candle, he goes to explore the room.
 
-**Report Date**
+## Report Date
 
 26 Jan 2022

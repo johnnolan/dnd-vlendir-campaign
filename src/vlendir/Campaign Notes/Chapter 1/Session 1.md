@@ -26,6 +26,6 @@ Adventures started with a nightmare/vision envolving a stormy sea and being slam
 
 [Sending Stones](https://www.dndbeyond.com/magic-items/sending-stones)
 
-**Report Date**
+## Report Date
 
 24 Jan 2021

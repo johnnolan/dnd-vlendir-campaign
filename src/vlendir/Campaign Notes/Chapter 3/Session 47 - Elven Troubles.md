@@ -46,8 +46,6 @@ Jor angry has her bow drawn at Hiraani. Trying to calm her down he finds she is 
 
  They move closer into the tunnel.
 
-[![](/uploads/images/f6b482f7f5eb162ee69470e67f43c875.webp "Jinlon.webp")](/i/3406416 "Jinlon.webp")
-
-**Report Date**
+## Report Date
 
 14 Feb 2022

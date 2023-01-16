@@ -50,6 +50,6 @@ As the group finished reading the letter, they investigated around the cellar an
 
  As they went round the corner of a hill, they are met by a small contingent of armed soldiers, as the lead soldier steps forward and raises his hand for them to halt, Lorena immediately recognises these as her father Monty's soldiers.
 
-**Report Date**
+## Report Date
 
 02 Sep 2021

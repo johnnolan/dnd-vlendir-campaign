@@ -42,6 +42,6 @@ Upon approaching the Circle of Thunder, they noticed storm clouds and distant th
 
  At that moment, they heard a smashing and a giant roar as the newly summoned Gorthok, charged in firing lightening at them and striking hard at Hiraani. Misty stepping away to heal, he came back into the fray and with a round of harsh strikes and a well placed lightening bolt, Hiraani took the final swipe to end the creatures life.
 
-**Report Date**
+## Report Date
 
 07 Apr 2021

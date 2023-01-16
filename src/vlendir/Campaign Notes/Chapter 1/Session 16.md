@@ -48,6 +48,6 @@ Bracers of Archery  
 
  2 Greater Healing Potions
 
-**Report Date**
+## Report Date
 
 20 Apr 2021
