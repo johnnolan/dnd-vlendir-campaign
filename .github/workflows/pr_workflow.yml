@@ -58,7 +58,7 @@ jobs:
         env:
           BODY_PREFIX: '<!-- pa11y-ci results -->'
           OWNER: 'johnnolan'
-          REPO: 'johnnolan.dev'
+          REPO: 'dnd-vlendir-campaign'
         with:
           script: |
             const script = require('./.github/workflows/scripts/pa11y-ci.js')
