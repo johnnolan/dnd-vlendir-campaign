@@ -12,7 +12,7 @@ Realising the horses are in the Portable Hole, Lorena quickly jumps through the 
 
  Taking the horses to the stable, they all headed out to find what is on the island.  
 
- Going to find Crispin, they find stood outside his door, [Tura](/w/vlendir-drusslegend/a/tura-person) . After an awkward conversation about boots and whether Crispin has a girlfriend called Saskia with Lorena, they enter in to see him.  
+ Going to find Crispin, they find stood outside his door, Tura . After an awkward conversation about boots and whether Crispin has a girlfriend called Saskia with Lorena, they enter in to see him.  
 
  Crispin is preparing a letter for them for safe travel. Crispin finds out that Archmage Dennis and Douglas Webb had recently died out at sea which shakes him to his core. He tells them about things to see around the island and send them on their way. They ask about Glimmerfall.  
 

@@ -12,7 +12,7 @@ As the adventurers looked on in horror at 3 Ogres running towards them, tired an
 
  As Lorena Aldabra swung between the 2 orcs surrounding her, Hiraani joined in and finished one off with his rapier before running back to take cover to shoot with his bow.  
 
- Graa S'oua attempted to shoot acid at one passing Ogre but missed drawing its attention his way. As the Ogre ran at him to take a swipe, he threw up his magical shield after being whispered too by [The Keeper](/w/vlendir-drusslegend/a/the-keeper-person) saving his life. Stepping back he launched a Poison Spray burning the Orc to pieces before Lorena Aldabra finished him off with her blade.  
+ Graa S'oua attempted to shoot acid at one passing Ogre but missed drawing its attention his way. As the Ogre ran at him to take a swipe, he threw up his magical shield after being whispered too by The Keeper saving his life. Stepping back he launched a Poison Spray burning the Orc to pieces before Lorena Aldabra finished him off with her blade.  
 
  As Lorena Aldabra found herself surrounded, she dispatched with another Ogre before catching both an Orc and Ogre running past her, slicing them across the arse with a fierce blow causing them to pause their chase towards Hiraani .  
 

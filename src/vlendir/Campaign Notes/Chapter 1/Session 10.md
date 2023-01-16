@@ -12,7 +12,7 @@ As the adventurers made their way through the rest of the cave system, they fina
 
  As they made their way through another tunnel out the back of this cavern, they found a secret exit leading them out the opposite side of the cave system.  
 
- Upon exploring the area they found a freshly dug grave site. Before they stepped any further [Hiraani](/w/vlendir-drusslegend/a/hiraani-the-eyemaster-person) heard crunching and snorting further past the graves in a bush. They all made their way to the center of the grave site to get a better view and began arguing about whether to attack whatever it is.  
+ Upon exploring the area they found a freshly dug grave site. Before they stepped any further Hiraani heard crunching and snorting further past the graves in a bush. They all made their way to the center of the grave site to get a better view and began arguing about whether to attack whatever it is.  
 
  At this point Don Jon came out and upon recognising the sound of a Troll eating bones, he noped back into the cave where the group followed to rest up for the night and see if they could attempt an attack after a rest.  
 

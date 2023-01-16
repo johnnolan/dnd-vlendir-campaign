@@ -47,7 +47,7 @@ Surrounded in a feywild forest with a small lake and a small island in the middl
 
  Packing them and the sailors some breakfast, he wishes them well and they head over to meet them and deal with the crab. Once done, maybe these sailors can help them sail out to find a piece of the ship to try and use a spell to locate the rest of it.  
 
- Arriving there they are met by First Mate [Ardor Bore](/w/vlendir-drusslegend/a/ardor-bore-person).  
+ Arriving there they are met by First Mate Ardor Bore.  
 
  Blue skin with brown hair shoulder length. They have a wet look to them, water beads hang off their skin reflecting light. The smell of fresh and clean rain water emanates from him. Carries a short sword and cross bow at their hip. Ragged top and trousers, functional and dirty. Even though they look young, in their early 20's, there is a look of burden and responsibility on their face. A grim set face finishes off a powerful and well worn body of years in the elements.  
 

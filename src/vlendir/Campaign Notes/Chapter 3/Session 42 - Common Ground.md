@@ -14,19 +14,19 @@ The group wake up to the news of a forest growing out in the Jorus. They get up 
 
  Getting there they are met with a massive Oak forest. Each tree sits alongside the other blocking entry.  
 
- Lorena tries to fly over to see a break but finds none. [Ania Aldabra Rivers](/w/vlendir-drusslegend/a/ania-aldabra-rivers-person) steps forward with Dragon and the trees part way allowing them all through.  
+ Lorena tries to fly over to see a break but finds none. Ania Aldabra Rivers steps forward with Dragon and the trees part way allowing them all through.  
 
- Travelling down the pathway through the trees, they come to an opening with a small hut to one side, a bench and a beautiful clear water lake. Standing there are [Lila Tengo](/w/vlendir-drusslegend/a/lila-tengo-person) and [Uldon Tengo](/w/vlendir-drusslegend/a/uldon-tengo-person).  
+ Travelling down the pathway through the trees, they come to an opening with a small hut to one side, a bench and a beautiful clear water lake. Standing there are Lila Tengo](/w/vlendir-drusslegend/a/lila-tengo-person) and [Uldon Tengo.  
 
- They find out that this forest has grown out from [T'u-Sin](/w/vlendir-drusslegend/a/legend-of-t-u-sin-and-king-jep-aldabra-article) and the cavern now completely flooded. This area is protected by a Fey enchantment of some kind and should Dragon wish to stay, he will be able to return to Aldabra at any time under water.  
+ They find out that this forest has grown out from T'u-Sin and the cavern now completely flooded. This area is protected by a Fey enchantment of some kind and should Dragon wish to stay, he will be able to return to Aldabra at any time under water.  
 
- [Ania Aldabra Rivers](/w/vlendir-drusslegend/a/ania-aldabra-rivers-person) agrees to leave Dragon here and take on the help of Lila and Uldon to care for him.  
+ Ania Aldabra Rivers agrees to leave Dragon here and take on the help of Lila and Uldon to care for him.  
 
  Leaving and going back to Aldabra, the group find stuck in cages Bryce Crawford and Captain Fontaine, hands and legs chopped off. The Hiraani and Graa decide to torture them a little too much and a little too long before awkwardly heading off.  
 
  Heading to pick up their shopping they get a Ring of Cold Protection, a water cap and 2 Cloaks of the Manta Ray. Ensuring the trader knows of Phandelver, he agrees to head there on his journey to Bhurgarom and they gift him with one of Big Als Butter Skull.  
 
- Saying their goodbyes, they all go to see [Crispin](/w/vlendir-drusslegend/a/crispin-person) and they teleport via Graa to Hunters Lodge.  
+ Saying their goodbyes, they all go to see Crispin and they teleport via Graa to Hunters Lodge.  
 
  Arriving they find the place to be immaculately cleaned and everything in order. They all settle down with a drink in front of the fire in the living room.  
 

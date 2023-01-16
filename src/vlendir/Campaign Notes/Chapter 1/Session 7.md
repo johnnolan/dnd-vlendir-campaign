@@ -28,7 +28,7 @@ They said goodbye to Big Al and handed in the quest to Harbin Wester.
 
 Buying armour and provisions they prepared to make their way to Mountain Toe Gold Mine
 
-Before they could leave, Graa S'oua had a vision standing absolutely still and struck a deal with [The Keeper](/w/vlendir-drusslegend/a/the-keeper-person) , god of greed and death to forgoe his Paladin ways and gain new powers. He agreed.
+Before they could leave, Graa S'oua had a vision standing absolutely still and struck a deal with The Keeper , god of greed and death to forgoe his Paladin ways and gain new powers. He agreed.
 
 ### Rewards Granted
 

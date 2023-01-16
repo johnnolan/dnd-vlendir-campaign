@@ -18,7 +18,7 @@ After fighting the giant crab, the group spend the rest of the day helping the c
 
  As the day comes to a close, the group come back to the beach where the sailors and Ardor have set up a fire to cook and drink ready for the day ahead tomorrow.  
 
- [Ardor Bore](/w/vlendir-drusslegend/a/ardor-bore-person)
+ Ardor Bore
 
  The group manage to convince Ardor to take the position of Captain and with agreement of his own men, he becomes the captain of the ship.  
 

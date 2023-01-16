@@ -10,7 +10,7 @@ eleventyNavigation:
 
 Walking into the room next to them, they went to face the monstrosity.  
 
- [Jor](/w/vlendir-drusslegend/a/jor-person) beaten and bruised and looking to be having her life taken into a glowing crystal then into the demon. Behind the demon is a big glowing black crystal that as the water runs through it it goes into the fountain below and poisoing it, the very source of what had cursed Hiraani.  
+ Jor beaten and bruised and looking to be having her life taken into a glowing crystal then into the demon. Behind the demon is a big glowing black crystal that as the water runs through it it goes into the fountain below and poisoing it, the very source of what had cursed Hiraani.  
 
  Key points
 

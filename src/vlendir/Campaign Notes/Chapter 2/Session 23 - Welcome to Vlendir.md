@@ -24,9 +24,9 @@ As the adventurers are greeted by Crispin Harding, he introduces himself as Graa
 
  They found that each of them had one way or another been helped by creatures from the Feywild.  
 
-* Hiraani - [Aislaine, The Maiden](/w/vlendir-drusslegend/a/aislaine2C-the-maiden-person-1)
-* Graa S'oua - [The Keeper](/w/vlendir-drusslegend/a/the-keeper-person)
-* Lorena Aldabra - [Lorena Dragonkin](/w/vlendir-drusslegend/a/lorena-dragonkin-article)
+* Hiraani - Aislaine, The Maiden
+* Graa S'oua - The Keeper
+* Lorena Aldabra - Lorena Dragonkin
 He explained to Hiraani that the curse was done by a Djinni and he needs to find a way back to the lighthouse he came from and find a part of the book he read from to hopefully use Graa S'oua's magic to locate the entity and beat it.  
 
  He then took the object that was around the dragon and casting a spell identified that it was a Enchantment that was cast on the object to control the dragon.  
@@ -53,11 +53,11 @@ He explained to Hiraani that the curse was done by a Djinni and he needs to find
 
  He agrees and also hands them another glass skull after hearing that they had broken one on their travels.  
 
- With a fond goodbye and a wave, he headed out and on his way with [Elva Gwennip](/w/vlendir-drusslegend/a/elva-gwennip-person-1) lying peacefully behind him.  
+ With a fond goodbye and a wave, he headed out and on his way with Elva Gwennip lying peacefully behind him.  
 
  As the adventurers saw the sun setting, they packed their things and set out. Just before they left, Crispin Harding approached the party for one final goodbye and giving a long look of proudness in his eyes to Graa S'oua, seeing him with friends and a purpose.  
 
- As the town watched them leave, nodding respect and thanks, they left the gate, up the road and looked back over their shoulder one more time to [Phandelvin](/w/vlendir-drusslegend/a/phandelvin-settlement), where so much has happened.  
+ As the town watched them leave, nodding respect and thanks, they left the gate, up the road and looked back over their shoulder one more time to Phandelvin, where so much has happened.  
 
  As they turned their backs, they made their way to the next adventure.  
 

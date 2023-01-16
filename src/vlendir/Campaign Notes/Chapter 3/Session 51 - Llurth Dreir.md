@@ -11,9 +11,9 @@ eleventyNavigation:
 
 The group look around them seeing the two holes in the ground, 1 drider and many Drow and Skeletons, they engage in battle quickly killing all there.  
 
- Recovering, they reassure a distraught [Fvente](/w/vlendir-drusslegend/a/fvente-person) that they will find [Jor](/w/vlendir-drusslegend/a/jor-person) .  
+ Recovering, they reassure a distraught Fvente](/w/vlendir-drusslegend/a/fvente-person) that they will find [Jor .  
 
- [Jaal Danyon](/w/vlendir-drusslegend/a/jaal-danyon-person) approaches Hiraani and explains about the streams that run around the area and why they don't drink from them. He know Hiraani has been cursed by drinking from these streams. The only way to fix it is to go down to where Jor is, rescue her and defeat the source of corruption that is down there. He passes a pair of balls to Graa and Lorena so that they can use these to counteract any sign of the curse that happens on Hiraani.  
+ Jaal Danyon approaches Hiraani and explains about the streams that run around the area and why they don't drink from them. He know Hiraani has been cursed by drinking from these streams. The only way to fix it is to go down to where Jor is, rescue her and defeat the source of corruption that is down there. He passes a pair of balls to Graa and Lorena so that they can use these to counteract any sign of the curse that happens on Hiraani.  
 
  Saying their quick goodbyes, they all go down the hole.  
 

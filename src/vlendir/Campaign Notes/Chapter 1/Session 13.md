@@ -8,7 +8,7 @@ eleventyNavigation:
 
 ## General Summary
 
-As the adventurers approached the entrance of the Stonehill Inn, they opened the door to be greated by a warm interior and a inn full of their past friends all huddled around a table, Ulla (f) Pog (m), Linene Graywind, Elmar Barthen, Dazlyn Grayshard and Norbus Ironrune. Sat by the bar nursing a beer was Big Al and over alone on another table sat [Elva Gwennip](/w/vlendir-drusslegend/a/elva-gwennip-person-1).
+As the adventurers approached the entrance of the Stonehill Inn, they opened the door to be greated by a warm interior and a inn full of their past friends all huddled around a table, Ulla (f) Pog (m), Linene Graywind, Elmar Barthen, Dazlyn Grayshard and Norbus Ironrune. Sat by the bar nursing a beer was Big Al and over alone on another table sat Elva Gwennip.
 
 Getting a few whiskys and a milk from the barkeep, the adventurers made their way towards the crowded table, pulled up some chairs and started conversaion.
 
@@ -16,7 +16,7 @@ Learning about the group all working together now to fortify the town and some h
 
 Linene also brought up about Adabra Gwynn visiting recently and taking a few new helpers with her to keep producing potions. She left the group a Greater Healing Potion, should they return.
 
-They called over [Elva Gwennip](/w/vlendir-drusslegend/a/elva-gwennip-person-1) and she reluctantly but drunkenly made her way over to the table. Upon getting there she told everyone of her reasons to be there hating herself for being so pitiful. Lorena Aldabra then gave her her spear to hold on to so she could use it and have confidence in herself.
+They called over Elva Gwennip and she reluctantly but drunkenly made her way over to the table. Upon getting there she told everyone of her reasons to be there hating herself for being so pitiful. Lorena Aldabra then gave her her spear to hold on to so she could use it and have confidence in herself.
 
 Big Al, made his way to the table after the adventurers had talked about their missions and the vision of the dragon. He suggested they make an attempt at fetching a sword that lied under a hill that covers an old Ancient Dragons bones. Here there is rumour of a sword that could be useful in the fight ahead.
 

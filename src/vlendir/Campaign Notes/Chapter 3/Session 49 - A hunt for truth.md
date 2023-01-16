@@ -8,9 +8,9 @@ eleventyNavigation:
 
 ## General Summary
 
-The group pick themselves up and make their way out of the temple to rest and regain their energy ahead of trying to discover what is happening with [Jaal Danyon](/w/vlendir-drusslegend/a/jaal-danyon-person) .  
+The group pick themselves up and make their way out of the temple to rest and regain their energy ahead of trying to discover what is happening with Jaal Danyon .  
 
- As they go outside and set up camp, [Jor](/w/vlendir-drusslegend/a/jor-person) upset that her sister could be involved in this, prays to her god Solonar.  
+ As they go outside and set up camp, Jor upset that her sister could be involved in this, prays to her god Solonar.  
 
  Jor...
 
@@ -43,15 +43,15 @@ The group pick themselves up and make their way out of the temple to rest and re
 * Wakes to Doge standing next to him and Jor crying. What was said to her was for her.
 * A glow of green now surrounds Doge and he has grown in size and muscle
 
- Getting a nights sleep, they awake and head back to Jinlon to confront Jaal. As they get close to the border, Hiraani and Lorena sense something below them and jump out of the way as 3 net traps trigger. Graa not moving out the way in time get caught and dragged to the floor and into a nearby bush. Holding Graa up, they see [Sha'a](/w/vlendir-drusslegend/a/sha-a-person) step out of the bush holding Graa, the village Elder, hunter and trainer of which Hiraani spent a lot of time with training.  
+ Getting a nights sleep, they awake and head back to Jinlon to confront Jaal. As they get close to the border, Hiraani and Lorena sense something below them and jump out of the way as 3 net traps trigger. Graa not moving out the way in time get caught and dragged to the floor and into a nearby bush. Holding Graa up, they see Sha'a step out of the bush holding Graa, the village Elder, hunter and trainer of which Hiraani spent a lot of time with training.  
 
  He laughs as he comes out giving Hiraani a hug and untying Graa. He mentions that Jaal is looking for them and they should be careful. Its at this point they see a fresh scar running down the side of Sha'a face and he mentions he has been gone out of the village for a few months.  
 
  They all speak and after filling him in on what has occured, they decide on a plan.  
 
- [Jor](/w/vlendir-drusslegend/a/jor-person) will go ahead and get her sister out of the temple. [Sha'a](/w/vlendir-drusslegend/a/sha-a-person) will fetch the other council members and get them to meet at the temple. The group will infiltrate the temple and search for more concrete evidence of Jaal keeping the barrier up and forcing people to stay rather than attacking and defending their sacred lands.  
+ Jor](/w/vlendir-drusslegend/a/jor-person) will go ahead and get her sister out of the temple. [Sha'a will fetch the other council members and get them to meet at the temple. The group will infiltrate the temple and search for more concrete evidence of Jaal keeping the barrier up and forcing people to stay rather than attacking and defending their sacred lands.  
 
- As they tie the horses up leaving Doge to keep watch, they sneak into Jinlon and setup in a bush watching the entrance for Jor to come out. As she does, they see her arguing with her sister, [Ti'an](/w/vlendir-drusslegend/a/ti-an-person) and in the early evening light they prepare to enter the temple.
+ As they tie the horses up leaving Doge to keep watch, they sneak into Jinlon and setup in a bush watching the entrance for Jor to come out. As she does, they see her arguing with her sister, Ti'an and in the early evening light they prepare to enter the temple.
 
 ## Report Date
 

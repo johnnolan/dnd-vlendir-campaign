@@ -8,7 +8,7 @@ eleventyNavigation:
 
 ## General Summary
 
-The group cast Pass without a Trace and entered into the temple. Knowing [Jaal Danyon](/w/vlendir-drusslegend/a/jaal-danyon-person) will probably be in a room south of the main hall, they walk through the doors.  
+The group cast Pass without a Trace and entered into the temple. Knowing Jaal Danyon will probably be in a room south of the main hall, they walk through the doors.  
 
  Stepping in, Lorena goes up to the door of Jaal and tries to listen, failing miserably she hears nothing not knowing whether he is in here or not. Giving up with seeing nothing of importance in this first room, they proceed through the second set of doors into the main area of the temple.  
 
@@ -44,7 +44,7 @@ The group cast Pass without a Trace and entered into the temple. Knowing [Jaal D
 
  A very cold, wet and small Graa breaths a sigh of relief.  
 
- [Fvente](/w/vlendir-drusslegend/a/fvente-person), [Jor](/w/vlendir-drusslegend/a/jor-person), [Sha'a](/w/vlendir-drusslegend/a/sha-a-person) and [Ti'an](/w/vlendir-drusslegend/a/ti-an-person) are all arguing as Hiraani reaches them. Emptying the Portable Hole, showing the group the evidence they have collected, they quickly gather themselves and go to confront Jaal to find the truth. Ti'an and Fvente even after the evidence and the stories of their adventures from Hiraani still did not believe him.  
+ Fvente](/w/vlendir-drusslegend/a/fvente-person), [Jor](/w/vlendir-drusslegend/a/jor-person), [Sha'a](/w/vlendir-drusslegend/a/sha-a-person) and [Ti'an are all arguing as Hiraani reaches them. Emptying the Portable Hole, showing the group the evidence they have collected, they quickly gather themselves and go to confront Jaal to find the truth. Ti'an and Fvente even after the evidence and the stories of their adventures from Hiraani still did not believe him.  
 
  Graa gets his little self up and moves back to the main temple room. Lorena looking up seeing this image in front of her, a very wet hobbit, what the fuck is all she could say before laughing out loud.  
 

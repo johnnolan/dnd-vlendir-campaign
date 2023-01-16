@@ -10,9 +10,9 @@ eleventyNavigation:
 
 Jor angry has her bow drawn at Hiraani. Trying to calm her down he finds she is upset with him leaving her when he did and she breaks down in front of him. She takes herself over to the well they are stood by and explains what the well represents.  
 
- See [Corellon and Arelel](/w/vlendir-drusslegend/a/corellon-and-arelel-article)
+ See Corellon and Arelel
 
- The Drow have returned from their underground city and are destroying the Elven sacred sites. Meanwhile her people in Jinlon stay protected and hidden in their town, protected by a shield raised by [Jaal Danyon](/w/vlendir-drusslegend/a/jaal-danyon-person).  
+ The Drow have returned from their underground city and are destroying the Elven sacred sites. Meanwhile her people in Jinlon stay protected and hidden in their town, protected by a shield raised by Jaal Danyon.  
 
  She agrees to lead them back to Jinlon to return home but once there they should set off quickly for Shenar temple, there is rumour of foul play there as well.  
 
