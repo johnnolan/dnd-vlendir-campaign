@@ -16,7 +16,7 @@ The group wake up to the news of a forest growing out in the Jorus. They get up 
 
  Lorena tries to fly over to see a break but finds none. Ania Aldabra Rivers steps forward with Dragon and the trees part way allowing them all through.  
 
- Travelling down the pathway through the trees, they come to an opening with a small hut to one side, a bench and a beautiful clear water lake. Standing there are Lila Tengo](/w/vlendir-drusslegend/a/lila-tengo-person) and [Uldon Tengo.  
+ Travelling down the pathway through the trees, they come to an opening with a small hut to one side, a bench and a beautiful clear water lake. Standing there are Lila Tengo and Uldon Tengo.  
 
  They find out that this forest has grown out from T'u-Sin and the cavern now completely flooded. This area is protected by a Fey enchantment of some kind and should Dragon wish to stay, he will be able to return to Aldabra at any time under water.  
 

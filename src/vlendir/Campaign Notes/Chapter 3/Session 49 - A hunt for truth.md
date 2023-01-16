@@ -49,7 +49,7 @@ The group pick themselves up and make their way out of the temple to rest and re
 
  They all speak and after filling him in on what has occured, they decide on a plan.  
 
- Jor](/w/vlendir-drusslegend/a/jor-person) will go ahead and get her sister out of the temple. [Sha'a will fetch the other council members and get them to meet at the temple. The group will infiltrate the temple and search for more concrete evidence of Jaal keeping the barrier up and forcing people to stay rather than attacking and defending their sacred lands.  
+ Jor will go ahead and get her sister out of the temple. [Sha'a will fetch the other council members and get them to meet at the temple. The group will infiltrate the temple and search for more concrete evidence of Jaal keeping the barrier up and forcing people to stay rather than attacking and defending their sacred lands.  
 
  As they tie the horses up leaving Doge to keep watch, they sneak into Jinlon and setup in a bush watching the entrance for Jor to come out. As she does, they see her arguing with her sister, Ti'an and in the early evening light they prepare to enter the temple.
 

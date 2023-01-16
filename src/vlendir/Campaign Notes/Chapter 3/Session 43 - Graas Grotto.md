@@ -28,7 +28,7 @@ Lorena is awoken by her Trident and notices wrapped in a dark cloak, some sort o
 
  Saskia has a secret word with Crispin. They all sneak to listen and they just catch the word **Glimmerfall** before quickly stumbling back. Graa trips and lands face first as Crispin enters. Staying still as he can, Crispin comments he must be really tired and they all go and settle down for the rest of the night.  
 
- Awakening, they gather round and teleport out to Medeis University. Before going, Graa is given a stone to keep, as long as he has it on him the wards will not go off. They are met by Tura](/w/vlendir-drusslegend/a/tura-person) and [Falinit and welcomed to the Isle.  
+ Awakening, they gather round and teleport out to Medeis University. Before going, Graa is given a stone to keep, as long as he has it on him the wards will not go off. They are met by Tura and Falinit and welcomed to the Isle.  
 
  Before heading up the stairs of the cellar they are in, they meet with Vigo Twofoot a 26 year old male lightfoot halfling, weedy, 3'10" height in training robes of blue comes running in to the room. Ignores them all and goes straight to Crispin. Crispin audibly sighs and Tura rolls her eyes as he asks how he is, can he carry anything, is he hurt, does he need anything? Crispin is patient but polite. Hands him his sack to carry which he struggles with. He sees Graa and sticks his chin up in a jealous manner.  
 

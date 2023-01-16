@@ -150,6 +150,6 @@ The next day the group awake to hear of a new forest grown south of Aldabra from
 
  They took down Trillith fast with a wise move to freeze him in place by Graa.  
 
- Its at this point Graa stops and remembers about the planes of existence that he learnt about in his studies and goes to tell the group what he knows and how this connects. [https://www.worldanvil.com/w/vlendir-drusslegend/a/the-use-of-the-weave-article]( https://www.worldanvil.com/w/vlendir-drusslegend/a/the-use-of-the-weave-article)  
+ Its at this point Graa stops and remembers about the planes of existence that he learnt about in his studies and goes to tell the group what he knows and how this connects. [The use of The Weave](../../../History/The%20use%20of%20The%20Weave).
 
- [https://www.worldanvil.com/w/vlendir-drusslegend/a/the-weave-and-ley-lines-article](https://www.worldanvil.com/w/vlendir-drusslegend/a/the-weave-and-ley-lines-article)
+ [The Weave and Ley Lines](../../../History/The%20Weave%20and%20Ley%20Lines)

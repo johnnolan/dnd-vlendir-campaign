@@ -37,15 +37,15 @@ Before that she talked to them each about their gods and who/what they are.
 
 ### The Keeper
 
-[https://www.worldanvil.com/w/vlendir-drusslegend/a/the-keeper-person](https://www.worldanvil.com/w/vlendir-drusslegend/a/the-keeper-person)
+[Overview of The Keeper](../../../Fey%20Deities/The%20Keeper)
 
 ### Aislaine, The Maiden
 
-[https://www.worldanvil.com/w/vlendir-drusslegend/a/aislaine2C-the-maiden-person-1](https://www.worldanvil.com/w/vlendir-drusslegend/a/aislaine2C-the-maiden-person-1)
+[Overview of Aislaine, The Maiden](../../../Fey%20Deities/Aislaine%20The%20Maiden)
 
 ### Dragonkin
 
-[https://www.worldanvil.com/w/vlendir-drusslegend/a/lorena-dragonkin-article](https://www.worldanvil.com/w/vlendir-drusslegend/a/lorena-dragonkin-article)
+[Overview of The Dragonkin](../../../Fey%20Deities/Lorena%20Dragonkin)
 
 As they finished talking, they sat in a circle together and breathed in the ground down root that is now boiling in a kettle in front of them. As they faded back each awoke in their own Fey dream.
 
