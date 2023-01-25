@@ -1,0 +1,34 @@
+on:
+  workflow_call:
+
+jobs:
+  build:
+    name: Lint Code
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v3.3.0
+
+      - name: Set up prerequisites - node and yarn
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: '.nvmrc'
+
+      - name: Cache yarn dependencies
+        id: cache
+        uses: actions/cache@v3
+        with:
+          path: ./node_modules
+          key: modules-${{ hashFiles('yarn.lock') }}
+
+      - name: Install packages
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: yarn install
+
+      - name: Run lint markdown
+        continue-on-error: true
+        run: yarn run lint:markdown
+
+      - name: Run Linting
+        run: yarn run lint:check
