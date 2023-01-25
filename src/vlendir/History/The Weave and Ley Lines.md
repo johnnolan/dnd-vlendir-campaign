@@ -11,4 +11,6 @@ The outer planes magic takes longer and is weaker by time it reaches the materia
 
 Like a planet with a large orbit far away, the outer planes pull is weaker and orbit takes longer, time there is slower and inner realms are less important due to how quickly events happen there.
 
+![Overview of the Planes](/assets/images/article/planesofexistence.png "Overview of the Planes")
+
 ![Overview of the Planes](/assets/images/article/planes.webp "Overview of the Planes")
