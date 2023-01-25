@@ -6,14 +6,14 @@ on:
       - main
 
 jobs:
-    lint:
+  lint:
     name: Run lint job
     uses: ./.github/workflows/lint_job.yml
 
-  lint:
+  lighthouse:
     name: Run lighthouse job
     uses: ./.github/workflows/lighthouse_job.yml
 
-  lint:
+  pa11y:
     name: Run pa11y job
     uses: ./.github/workflows/pa11y_job.yml
