@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ## General Summary
 
-As the group gathered themselves and hearing the tale of Trillith, Graa spoke of The Weave, The Planes of existance and gods within.
+As the group gathered themselves and [hearing the tale of Trillith](</vlendir/Campaign Notes/Chapter 3/Session 57 - The passing of a Storm/>), Graa spoke of [The Weave, The Planes of existance](</vlendir/History/The Weave and Ley Lines/>) and gods within.
 
 Understanding that 3000 years ago, the Shadowfell, Feywild and Material Plan all converged when the ley lines were broken. Caused by a God called Asmodeus from a Plane of Existence called The Nine Hells, he reached out to corrupt a individual.
 
