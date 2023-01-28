@@ -2,8 +2,10 @@
 layout: layouts/fullwidth.njk
 backLink: "/"
 ---
+{%- from "../macros/datetime.njk" import datetime %}
 
 <article class="article-page">
     <h1 class="article-page-heading">{{title}}</h1>
+    {{datetime(date)}}
     {{ content | safe }}
 </article>
