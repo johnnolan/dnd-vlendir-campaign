@@ -11,11 +11,13 @@ eleventyNavigation:
 
 As the group gathered themselves and [hearing the tale of Trillith](</vlendir/Campaign Notes/Chapter 3/Session 57 - The passing of a Storm/>), Graa spoke of [The Weave, The Planes of existance](</vlendir/History/The Weave and Ley Lines/>) and gods within.
 
-Understanding that 3000 years ago, the Shadowfell, Feywild and Material Plan all converged when the ley lines were broken. Caused by a God called Asmodeus from a Plane of Existence called The Nine Hells, he reached out to corrupt a individual.
+Understanding that 3000 years ago, the Shadowfell, Feywild and Material Plan all converged when the ley lines were broken.
+
+Caused by the God Asmodeus, from a Plane of Existence called The Nine Hells, he reached out to corrupt an individual who did the work of this for him through powerful magic.
 
 All the major religions are based on worshipping the gods in the Astral Planes. Paladins and Warlocks are often chosen by these entities to tap into their powers on the Material Plane, but only ever get a slither of this.
 
-1600 years ago, Jeb Aldabra and two others, a Fallen Angel from Elysium and another unknown made a device to temporarily fix the Ley Lines moving them back to where they should be, restoring order.
+1600 years ago, Jeb Aldabra and two others, a Fallen Angel from Elysium and another unknown made a device to temporarily fix the Ley Lines moving them back to where they should be, restoring order in what was a time of chaos and ruin.
 
 They were never properly fixed.
 
