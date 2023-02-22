@@ -36,7 +36,7 @@
     "markdownlint-cli": "0.33.0",
     "pa11y-ci": "3.0.1",
     "prettier": "2.8.4",
-    "sass": "1.58.1",
+    "sass": "1.58.3",
     "turndown": "7.1.1"
   },
   "dependencies": {
