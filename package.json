@@ -22,9 +22,9 @@
   },
   "devDependencies": {
     "@11ty/eleventy-navigation": "0.3.5",
-    "@babel/core": "7.22.1",
-    "@babel/eslint-parser": "7.21.8",
-    "@babel/preset-env": "7.22.4",
+    "@babel/core": "7.22.5",
+    "@babel/eslint-parser": "7.22.5",
+    "@babel/preset-env": "7.22.5",
     "concurrently": "8.1.0",
     "dayjs": "1.11.8",
     "eslint": "8.42.0",
