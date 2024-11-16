@@ -356,41 +356,96 @@
       "npcs": [
         {
           "type": "simple",
-          "name": "Alfonse Kalazorn",
+          "name": "Alfonse Kalazorn (Big Al)",
           "race": "Human",
           "gender": "Male",
-          "class": "Hunter",
-          "job": "Village Elder",
-          "age": "512",
-          "hair": "Blond Mohawk",
+          "class": "None",
+          "job": "Farmer",
+          "age": "65",
+          "hair": "Brown",
           "eyes": "Brown",
-          "topstats": {
-            "ac": "18",
-            "hitpoints": "72",
-            "speed": "30ft"
-          },
-          "properties": [
-            {
-              "name": "Damage Immunities",
-              "value": "poison, psychic"
-            }
-          ],
-          "abilities": {
-            "str": "14",
-            "dex": "11",
-            "con": "13",
-            "int": "1",
-            "wis": "3",
-            "cha": "1"
-          },
           "personality": [
-            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
-            "Trains all young ones in hunting.",
-            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
-            "He is very patient.",
-            "He is very optimistic."
+            "Veteran and old sheriff of Triboar",
+            "Road off with Ulla's body and the staff that killed her to Bhurgarom to start a new life and put her to rest.",
+            "Gifted them a each a skull drinking glass."
           ],
           "image": "phandelver/alfonse_kalazorn.jpg"
+        },
+        {
+          "type": "simple",
+          "name": "Pog",
+          "race": "Gnome",
+          "gender": "Male",
+          "class": "None",
+          "job": "Guard",
+          "age": "90",
+          "hair": "Brown",
+          "eyes": "Brown",
+          "personality": [
+            "Gnome who loves to create things that go boom. Provided assistance to the gang to blow up the dragon."
+          ],
+          "image": "phandelver/pog.jpg"
+        },
+        {
+          "type": "simple",
+          "name": "Gramok",
+          "race": "Orc",
+          "gender": "Male",
+          "class": "Fighter",
+          "job": "Fighter",
+          "age": "32",
+          "hair": "Brown",
+          "eyes": "Brown",
+          "personality": [
+            "Young Mountain Orc. Gave the group a sending stone to call upon him in the future.",
+            "Hates weakness, loves anyone with strength and brutality."
+          ],
+          "image": "phandelver/orc.jpg"
+        },
+        {
+          "type": "simple",
+          "name": "Falcon the Hunter",
+          "race": "Human",
+          "gender": "Male",
+          "class": "Ranger",
+          "job": "Hunter",
+          "age": "38",
+          "hair": "Brown",
+          "eyes": "Brown",
+          "personality": [
+            "Loves red wine. Lives alone in his hunter lodge. Clumsy in romantic situations, focussed and a perfectionist at all else."
+          ],
+          "image": "phandelver/falcon.jpg"
+        },
+        {
+          "type": "simple",
+          "name": "Elva",
+          "race": "Dwarf",
+          "gender": "Female",
+          "class": "None",
+          "job": "Fighter",
+          "age": "24",
+          "hair": "Brown",
+          "eyes": "Brown",
+          "personality": [
+            "Young dwarf the adventurers met early on. Was killed by Varalla in the attack upon Phandelver. Was trying to find her way in life away from other dwarves."
+          ],
+          "image": "phandelver/ulla.png"
+        },
+        {
+          "type": "simple",
+          "name": "Harbin Wester",
+          "race": "Human",
+          "gender": "Male",
+          "class": "None",
+          "job": "Townmaster ",
+          "age": "24",
+          "hair": "Brown",
+          "eyes": "Brown",
+          "personality": [
+            "Selfish and scared when they first meet, he comes out to the town in their hour of need rebuilding and gathering his people to fight."
+          ],
+          "image": "phandelver/elmar_barthen.png"
         }
       ]
     },
