@@ -579,38 +579,42 @@
           "name": "Saskia",
           "race": "Eldarin",
           "gender": "Female",
-          "class": "Hunter",
-          "job": "Village Elder",
-          "age": "512",
-          "hair": "Blond Mohawk",
-          "eyes": "Brown",
-          "topstats": {
-            "ac": "18",
-            "hitpoints": "72",
-            "speed": "30ft"
-          },
-          "properties": [
-            {
-              "name": "Damage Immunities",
-              "value": "poison, psychic"
-            }
-          ],
-          "abilities": {
-            "str": "14",
-            "dex": "11",
-            "con": "13",
-            "int": "1",
-            "wis": "3",
-            "cha": "1"
-          },
+          "class": "Druid",
+          "job": "None",
+          "age": "Unknown",
           "personality": [
-            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
-            "Trains all young ones in hunting.",
-            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
-            "He is very patient.",
-            "He is very optimistic."
+            "Old Eldarin Elf from the Feywild. Has never found or travelled back since leaving.",
+            "Caring and has a love for all things nature. Spends her time alone in her own forest woodland.",
+            "Always happy, open to helping and educating those who will listen."
           ],
           "image": "riverspire/saskia_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Captain Lee",
+          "race": "Human",
+          "gender": "Male",
+          "class": "None",
+          "job": "Captain",
+          "age": "Unknown",
+          "personality": [
+            "Retired naval captain from the Jorus. Now spends his time on a smaller vessel inland carrying supplies.",
+            "When on his boat, he is the boss. Outside of his boat he is quiet and thoughtful. On the sea he is absolute and strong willed."
+          ],
+          "image": "riverspire/Captain_Lee_Front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Harry",
+          "race": "Human",
+          "gender": "Male",
+          "class": "Budding Sorcerer/Rogue",
+          "job": "None",
+          "age": "10",
+          "personality": [
+            "Typical child, always wanting to get into trouble. Does not appear to be scared of much. Shows great courage in times of danger. Adores and looks up to Graa, finds him 'sooo coool'."
+          ],
+          "image": "riverspire/Harry.png"
         }
       ]
     }
