@@ -1,6 +1,131 @@
 {
   "data": [
     {
+      "place": "Medeis University",
+      "npcs": [
+        {
+          "type": "simple",
+          "name": "Crispin",
+          "race": "Human",
+          "gender": "Male",
+          "class": "Hunter",
+          "job": "Village Elder",
+          "age": "512",
+          "hair": "Blond Mohawk",
+          "eyes": "Brown",
+          "topstats": {
+            "ac": "18",
+            "hitpoints": "72",
+            "speed": "30ft"
+          },
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
+            "Trains all young ones in hunting.",
+            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
+            "He is very patient.",
+            "He is very optimistic."
+          ],
+          "image": "riverspire/saskia_front.png"
+        }
+      ]
+    },
+    ,
+    {
+      "place": "North Sea",
+      "npcs": [
+        {
+            "type": "simple",
+            "name": "Jakosh",
+            "race": "Tiefling",
+            "gender": "Male",
+            "class": "Hunter",
+            "job": "Village Elder",
+            "age": "512",
+            "hair": "Blond Mohawk",
+            "eyes": "Brown",
+            "topstats": {
+              "ac": "18",
+              "hitpoints": "72",
+              "speed": "30ft"
+            },
+            "properties": [
+              {
+                "name": "Damage Immunities",
+                "value": "poison, psychic"
+              }
+            ],
+            "abilities": {
+              "str": "14",
+              "dex": "11",
+              "con": "13",
+              "int": "1",
+              "wis": "3",
+              "cha": "1"
+            },
+            "personality": [
+              "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
+              "Trains all young ones in hunting.",
+              "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
+              "He is very patient.",
+              "He is very optimistic."
+            ],
+            "image": "north-sea/ardor_bore_front.jpg"
+          },
+          {
+            "type": "simple",
+            "name": "Ardor Bore",
+            "race": "Water Genasi",
+            "gender": "Male",
+            "class": "Hunter",
+            "job": "Village Elder",
+            "age": "512",
+            "hair": "Blond Mohawk",
+            "eyes": "Brown",
+            "topstats": {
+              "ac": "18",
+              "hitpoints": "72",
+              "speed": "30ft"
+            },
+            "properties": [
+              {
+                "name": "Damage Immunities",
+                "value": "poison, psychic"
+              }
+            ],
+            "abilities": {
+              "str": "14",
+              "dex": "11",
+              "con": "13",
+              "int": "1",
+              "wis": "3",
+              "cha": "1"
+            },
+            "personality": [
+              "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
+              "Trains all young ones in hunting.",
+              "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
+              "He is very patient.",
+              "He is very optimistic."
+            ],
+            "image": "north-sea/jakosh_profile.png"
+          }
+      ]
+    },
+    {
       "place": "Jinlon",
       "npcs": [
         {
