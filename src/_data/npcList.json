@@ -110,25 +110,6 @@
           "age": "512",
           "hair": "Blond Mohawk",
           "eyes": "Brown",
-          "topstats": {
-            "ac": "18",
-            "hitpoints": "72",
-            "speed": "30ft"
-          },
-          "properties": [
-            {
-              "name": "Damage Immunities",
-              "value": "poison, psychic"
-            }
-          ],
-          "abilities": {
-            "str": "14",
-            "dex": "11",
-            "con": "13",
-            "int": "1",
-            "wis": "3",
-            "cha": "1"
-          },
           "personality": [
             "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
             "Trains all young ones in hunting.",
@@ -148,25 +129,6 @@
           "age": "326",
           "hair": "Brown wavy cropped",
           "eyes": "Black",
-          "topstats": {
-            "ac": "12",
-            "hitpoints": "24",
-            "speed": "30ft"
-          },
-          "properties": [
-            {
-              "name": "Damage Immunities",
-              "value": "poison, psychic"
-            }
-          ],
-          "abilities": {
-            "str": "14",
-            "dex": "11",
-            "con": "13",
-            "int": "1",
-            "wis": "3",
-            "cha": "1"
-          },
           "personality": [
             "She has cropped, wavy, brown hair and black eyes.",
             "She wears an eyepatch on her right eye.",
@@ -187,25 +149,6 @@
           "age": "423",
           "hair": "Long Brown, straight",
           "eyes": "Brown",
-          "topstats": {
-            "ac": "12",
-            "hitpoints": "20",
-            "speed": "30ft"
-          },
-          "properties": [
-            {
-              "name": "Damage Immunities",
-              "value": "poison, psychic"
-            }
-          ],
-          "abilities": {
-            "str": "14",
-            "dex": "11",
-            "con": "13",
-            "int": "1",
-            "wis": "3",
-            "cha": "1"
-          },
           "personality": [
             "Treats Hiraani with sadness and coldness after he left for the Lighthouse. It takes a long time and deep connections for Elves to connect to people and he loved Hiraani.",
             "Overly protective.",
@@ -223,25 +166,6 @@
           "age": "22",
           "hair": "Cropped, wavy, brown hair",
           "eyes": "Black",
-          "topstats": {
-            "ac": "15",
-            "hitpoints": "68",
-            "speed": "30ft"
-          },
-          "properties": [
-            {
-              "name": "Damage Immunities",
-              "value": "poison, psychic"
-            }
-          ],
-          "abilities": {
-            "str": "14",
-            "dex": "11",
-            "con": "13",
-            "int": "1",
-            "wis": "3",
-            "cha": "1"
-          },
           "personality": [
             "She has a round, very cute face, not beautiful but plain and common.",
             "She has 3 piercings on her right ear and 3 piercings on her right ear.",
@@ -262,25 +186,6 @@
           "age": "268",
           "hair": "Short brown hair",
           "eyes": "Blue",
-          "topstats": {
-            "ac": "14",
-            "hitpoints": "77",
-            "speed": "30ft"
-          },
-          "properties": [
-            {
-              "name": "Damage Immunities",
-              "value": "poison, psychic"
-            }
-          ],
-          "abilities": {
-            "str": "14",
-            "dex": "11",
-            "con": "13",
-            "int": "1",
-            "wis": "3",
-            "cha": "1"
-          },
           "personality": [
             "He has soft copper skin.",
             "He has a triangular, extremely attractive face for his age.",
@@ -304,25 +209,6 @@
           "age": "22",
           "hair": "Long, wavy, brown hair",
           "eyes": "Black",
-          "topstats": {
-            "ac": "15",
-            "hitpoints": "18",
-            "speed": "30ft"
-          },
-          "properties": [
-            {
-              "name": "Damage Immunities",
-              "value": "poison, psychic"
-            }
-          ],
-          "abilities": {
-            "str": "14",
-            "dex": "11",
-            "con": "13",
-            "int": "1",
-            "wis": "3",
-            "cha": "1"
-          },
           "personality": [
             "Opposite of her sister she has a sharp, very stunning face.",
             "She is polite and respectful.",
@@ -341,25 +227,6 @@
           "age": "758",
           "hair": "TBC",
           "eyes": "TBC",
-          "topstats": {
-            "ac": "15",
-            "hitpoints": "18",
-            "speed": "30ft"
-          },
-          "properties": [
-            {
-              "name": "Damage Immunities",
-              "value": "poison, psychic"
-            }
-          ],
-          "abilities": {
-            "str": "14",
-            "dex": "11",
-            "con": "13",
-            "int": "1",
-            "wis": "3",
-            "cha": "1"
-          },
           "personality": [
             "Does not talk or cannot talk, no one knows.",
             "Spends his days mainly in the Elven Trance reliving past lives.",
@@ -414,7 +281,7 @@
           "job": "None",
           "age": "Unknown",
           "personality": ["Married to Rab Undergrove."],
-          "image": "jorus/Soldier_front.png"
+          "image": "missing.png"
         },
         {
           "type": "simple",
@@ -429,7 +296,7 @@
             "Rules Autmunrun with Mali Crawford.",
             "Brotherly annoying to Lorena. Loves to fish with her."
           ],
-          "image": "jorus/Soldier_front.png"
+          "image": "missing.png"
         },
         {
           "type": "simple",
