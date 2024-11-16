@@ -1,0 +1,9 @@
+---
+layout: layouts/npcbase.njk
+title: NPCS
+---
+{%- from "../../_includes/partials/statBlockSimple.njk" import statBlockSimple %}
+
+{% for npc in npcList.data %}
+    {{ statBlockSimple(npc) }}
+{% endfor %}
