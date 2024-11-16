@@ -4,6 +4,9 @@ title: NPCS
 ---
 {%- from "../../_includes/partials/statBlockSimple.njk" import statBlockSimple %}
 
-{% for npc in npcList.data %}
-    {{ statBlockSimple(npc) }}
+{% for place in npcList.data %}
+    <h2>{{ place.place }}</h2>
+    {% for npc in place.npcs %}
+        {{ statBlockSimple(npc) }}
+    {% endfor %}
 {% endfor %}
