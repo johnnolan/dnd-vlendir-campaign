@@ -1,0 +1,103 @@
+{% macro statBlockSimple(npc) %}
+
+<div class="stat-block">
+        <hr class="orange-border" />
+        <div class="section-left">
+            <div class="creature-heading">
+                <h1>{{ npc.name }}</h1>
+                <h2>{{ npc.race }}</h2>
+            </div> <!-- creature heading -->
+            <div class="creature-heading">
+                <img src="/assets/images/npcs/{{ npc.image }}" />
+            </div> <!-- creature heading -->
+            <svg height="5" width="100%" class="tapered-rule">
+            <polyline points="0,0 400,2.5 0,5"></polyline>
+        </svg>
+            <div class="top-stats">
+                <div class="property-line first">
+                    <h4>Armor Class</h4>
+                    <p>{{ npc.topstats.ac }}</p>
+                </div> <!-- property line -->
+                <div class="property-line">
+                    <h4>Hit Points</h4>
+                    <p>{{ npc.topstats.hitpoints }}</p>
+                </div> <!-- property line -->
+                <div class="property-line last">
+                    <h4>Speed</h4>
+                    <p>{{ npc.topstats.speed }}.</p>
+                </div> <!-- property line -->
+                <svg height="5" width="100%" class="tapered-rule">
+            <polyline points="0,0 400,2.5 0,5"></polyline>
+        </svg>
+                <div class="abilities">
+                    <div class="ability-strength">
+                        <h4>STR</h4>
+                        <p>{{ npc.abilities.str }}</p>
+                    </div> <!-- ability strength -->
+                    <div class="ability-dexterity">
+                        <h4>DEX</h4>
+                        <p>{{ npc.abilities.dex }}</p>
+                    </div> <!-- ability dexterity -->
+                    <div class="ability-constitution">
+                        <h4>CON</h4>
+                        <p>{{ npc.abilities.con }}</p>
+                    </div> <!-- ability constitution -->
+                    <div class="ability-intelligence">
+                        <h4>INT</h4>
+                        <p>{{ npc.abilities.int }}</p>
+                    </div> <!-- ability intelligence -->
+                    <div class="ability-wisdom">
+                        <h4>WIS</h4>
+                        <p>{{ npc.abilities.wis }}</p>
+                    </div> <!-- ability wisdom -->
+                    <div class="ability-charisma">
+                        <h4>CHA</h4>
+                        <p>{{ npc.abilities.cha }}</p>
+                    </div> <!-- ability charisma -->
+                </div> <!-- abilities -->
+                <svg height="5" width="100%" class="tapered-rule">
+            <polyline points="0,0 400,2.5 0,5"></polyline>
+        </svg>
+        
+                {% for property in npc.properties %}
+                    <div class="property-line first">
+                        <h4>{{ property.name }}</h4>
+                        <p>{{ property.value }}</p>
+                    </div> <!-- property line -->
+                {% endfor %}
+            </div> <!-- top stats -->
+            <svg height="5" width="100%" class="tapered-rule">
+            <polyline points="0,0 400,2.5 0,5"></polyline>
+        </svg>
+                <div class="property-block">
+                    <h4>Gender.</h4>
+                    <p>{{ npc.gender }}</p>
+                </div> <!-- property block -->  
+                <div class="property-block">
+                    <h4>Job.</h4>
+                    <p>{{ npc.job }}</p>
+                </div> <!-- property block -->  
+                <div class="property-block">
+                    <h4>Age.</h4>
+                    <p>{{ npc.age }} years old</p>
+                </div> <!-- property block -->  
+                <div class="property-block">
+                    <h4>Hair.</h4>
+                    <p>{{ npc.hair }}</p>
+                </div> <!-- property block -->  
+                <div class="property-block">
+                    <h4>Eyes.</h4>
+                    <p>{{ npc.eyes }}</p>
+                </div> <!-- property block --> 
+            <div class="property-block">
+                <h4>Personality.</h4>
+                 {% for trait in npc.personality %}
+                    <p>{{ trait }}</p>
+                    <br />
+                    <br />
+                {% endfor %}
+            </div> <!-- property block -->
+        </div> <!-- section left -->
+        <hr class="orange-border bottom" />
+    </div> <!-- stat block -->
+{% endmacro %}

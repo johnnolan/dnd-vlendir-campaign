@@ -1,0 +1,549 @@
+{
+  "data": [
+    {
+      "place": "Medeis University",
+      "npcs": [
+        {
+          "type": "simple",
+          "name": "Crispin",
+          "race": "Human",
+          "gender": "Male",
+          "class": "Cleric",
+          "job": "University Owner",
+          "age": "Unknown",
+          "hair": "Long Brown",
+          "eyes": "Blue",
+          "personality": [
+            "Owner and founder of Medeis University.",
+            "Raised Graa from a baby and oversaw his studies.",
+            "Cares deeply for all people and will put himself at risk to protect them.",
+            "Always has a grin on his face. Strong and caring to peoples experiences. Medium spoken."
+          ],
+          "image": "medeis/crispin_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Falinit",
+          "race": "Elf",
+          "gender": "Male",
+          "class": "Wizard",
+          "job": "University Assistant",
+          "age": "Unknown",
+          "hair": "Long Brown",
+          "eyes": "Blue",
+          "personality": [
+            "Focussed on studies.",
+            "Hardly seems to be paying attention.",
+            "Takes notes of everything that is happening.",
+            "Confident but introverted.",
+            "Happy to not have an opinion on things."
+          ],
+          "image": "medeis/falinit_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Tura",
+          "race": "Orc",
+          "gender": "Female",
+          "class": "Barbarian",
+          "job": "University Trainee",
+          "age": "Unknown",
+          "hair": "Long Black",
+          "eyes": "Brown",
+          "personality": [
+            "Strong and prone to anger. Wants to control her thoughts and is studying under Crispin to help.",
+            "Utterly devoted to Crispin.",
+            "Figths an internal struggle of good vs evil in her heart.",
+            "Speaks with a harsh voice. Quiet and scared of speaking her feelings. Focussed."
+          ],
+          "image": "medeis/tura_front.png"
+        }
+      ]
+    },
+    {
+      "place": "North Sea",
+      "npcs": [
+        {
+          "type": "simple",
+          "name": "Jakosh",
+          "race": "Tiefling",
+          "gender": "Male",
+          "class": "Hunter",
+          "job": "Village Elder",
+          "age": "512",
+          "hair": "Blond Mohawk",
+          "eyes": "Brown",
+          "topstats": {
+            "ac": "18",
+            "hitpoints": "72",
+            "speed": "30ft"
+          },
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
+            "Trains all young ones in hunting.",
+            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
+            "He is very patient.",
+            "He is very optimistic."
+          ],
+          "image": "north-sea/ardor_bore_front.jpg"
+        },
+        {
+          "type": "simple",
+          "name": "Ardor Bore",
+          "race": "Water Genasi",
+          "gender": "Male",
+          "class": "Hunter",
+          "job": "Village Elder",
+          "age": "512",
+          "hair": "Blond Mohawk",
+          "eyes": "Brown",
+          "topstats": {
+            "ac": "18",
+            "hitpoints": "72",
+            "speed": "30ft"
+          },
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
+            "Trains all young ones in hunting.",
+            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
+            "He is very patient.",
+            "He is very optimistic."
+          ],
+          "image": "north-sea/jakosh_profile.png"
+        }
+      ]
+    },
+    {
+      "place": "Jinlon",
+      "npcs": [
+        {
+          "type": "simple",
+          "name": "Sha'a",
+          "race": "Elf",
+          "gender": "Male",
+          "class": "Hunter",
+          "job": "Village Elder",
+          "age": "512",
+          "hair": "Blond Mohawk",
+          "eyes": "Brown",
+          "topstats": {
+            "ac": "18",
+            "hitpoints": "72",
+            "speed": "30ft"
+          },
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
+            "Trains all young ones in hunting.",
+            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
+            "He is very patient.",
+            "He is very optimistic."
+          ],
+          "image": "jinlon/shaa_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Fvente",
+          "race": "Elf",
+          "gender": "Female",
+          "class": "N/A",
+          "job": "Town Mayor",
+          "age": "326",
+          "hair": "Brown wavy cropped",
+          "eyes": "Black",
+          "topstats": {
+            "ac": "12",
+            "hitpoints": "24",
+            "speed": "30ft"
+          },
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "She has cropped, wavy, brown hair and black eyes.",
+            "She wears an eyepatch on her right eye.",
+            "Steady hand, stoic",
+            "Listens to all sides",
+            "Butts heads with Jaal",
+            "Loves both her children and their choices are their own."
+          ],
+          "image": "jinlon/fvente_front.jpg"
+        },
+        {
+          "type": "simple",
+          "name": "Tuvian",
+          "race": "Elf",
+          "gender": "Male",
+          "class": "N/A",
+          "job": "Farmer, Hiraani's Father (Adopted)",
+          "age": "423",
+          "hair": "Long Brown, straight",
+          "eyes": "Brown",
+          "topstats": {
+            "ac": "12",
+            "hitpoints": "20",
+            "speed": "30ft"
+          },
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "Treats Hiraani with sadness and coldness after he left for the Lighthouse. It takes a long time and deep connections for Elves to connect to people and he loved Hiraani.",
+            "Overly protective.",
+            "Proud farmer and grower of all things natural."
+          ],
+          "image": "jinlon/tuvian_front.jpg"
+        },
+        {
+          "type": "simple",
+          "name": "Jor",
+          "race": "Elf",
+          "gender": "Female",
+          "class": "Hunter",
+          "job": "Trainee Hunter, Hiraani's Friend",
+          "age": "22",
+          "hair": "Cropped, wavy, brown hair",
+          "eyes": "Black",
+          "topstats": {
+            "ac": "15",
+            "hitpoints": "68",
+            "speed": "30ft"
+          },
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "She has a round, very cute face, not beautiful but plain and common.",
+            "She has 3 piercings on her right ear and 3 piercings on her right ear.",
+            "Secretly worship Solonor Thelandira the elven god of hunting, archery, and survival in wild and harsh places. Believes he is the true god they should worship as they are no snow elves.",
+            "She acts on impulse, much unlike Elves.",
+            "She sketches innocent drawings in her spare time.",
+            "Likes animals more than people. Especially her pet wolf."
+          ],
+          "image": "jinlon/jor_front_all.jpg"
+        },
+        {
+          "type": "simple",
+          "name": "Jaal Danyon",
+          "race": "Elf",
+          "gender": "Male",
+          "class": "Wizard",
+          "job": "High Priest of Village",
+          "age": "268",
+          "hair": "Short brown hair",
+          "eyes": "Blue",
+          "topstats": {
+            "ac": "14",
+            "hitpoints": "77",
+            "speed": "30ft"
+          },
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "He has soft copper skin.",
+            "He has a triangular, extremely attractive face for his age.",
+            "He is very patient.",
+            "He is very self-confident.",
+            "He is always sharing his wisdom.",
+            "Keeper of the Elven library in town.",
+            "Dislikes non-elves but only to protect those he loves",
+            "Knows about Hiraani's curse but keeps it a secret",
+            "Hates elementals."
+          ],
+          "image": "jinlon/jaal_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Ti'an",
+          "race": "Elf",
+          "gender": "Female",
+          "class": "Wizard",
+          "job": "Trainess High Priest of Village",
+          "age": "22",
+          "hair": "Long, wavy, brown hair",
+          "eyes": "Black",
+          "topstats": {
+            "ac": "15",
+            "hitpoints": "18",
+            "speed": "30ft"
+          },
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "Opposite of her sister she has a sharp, very stunning face.",
+            "She is polite and respectful.",
+            "Feels like the responsible one in the family.",
+            "Loves her sister but hates how she gets away with anything she wants being the youngest by 3 minutes."
+          ],
+          "image": "jinlon/tian_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Loro Nambil Dayvon",
+          "race": "Elf",
+          "gender": "Male",
+          "class": "Wisdom",
+          "job": "Overseer, Head of the Jinlon Council, Council Member of the xxxxx",
+          "age": "758",
+          "hair": "TBC",
+          "eyes": "TBC",
+          "topstats": {
+            "ac": "15",
+            "hitpoints": "18",
+            "speed": "30ft"
+          },
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "Does not talk or cannot talk, no one knows.",
+            "Spends his days mainly in the Elven Trance reliving past lives.",
+            "Communicates via simple hand signals and charcoal drawings.",
+            "A seer of potential futures.",
+            "Always has a grin on his face showing still glitteringly white teeth.",
+            "Butts heads with Jaal"
+          ],
+          "image": "jinlon/NambilDayvon_front.jpg"
+        }
+      ]
+    },
+    {
+      "place": "Jorus",
+      "npcs": [
+        {
+          "type": "simple",
+          "name": "Ameline",
+          "race": "Succubus",
+          "gender": "Female",
+          "class": "Hunter",
+          "job": "Village Elder",
+          "age": "512",
+          "hair": "Blond Mohawk",
+          "eyes": "Brown",
+          "topstats": {
+            "ac": "18",
+            "hitpoints": "72",
+            "speed": "30ft"
+          },
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
+            "Trains all young ones in hunting.",
+            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
+            "He is very patient.",
+            "He is very optimistic."
+          ],
+          "image": "jorus/Ameline_front.png"
+        }
+      ]
+    },
+    {
+      "place": "Phandelver",
+      "npcs": [
+        {
+          "type": "simple",
+          "name": "Alfonse Kalazorn",
+          "race": "Human",
+          "gender": "Male",
+          "class": "Hunter",
+          "job": "Village Elder",
+          "age": "512",
+          "hair": "Blond Mohawk",
+          "eyes": "Brown",
+          "topstats": {
+            "ac": "18",
+            "hitpoints": "72",
+            "speed": "30ft"
+          },
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
+            "Trains all young ones in hunting.",
+            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
+            "He is very patient.",
+            "He is very optimistic."
+          ],
+          "image": "phandelver/alfonse_kalazorn.jpg"
+        }
+      ]
+    },
+    {
+      "place": "Riverspire",
+      "npcs": [
+        {
+          "type": "simple",
+          "name": "Saskia",
+          "race": "Eldarin",
+          "gender": "Female",
+          "class": "Hunter",
+          "job": "Village Elder",
+          "age": "512",
+          "hair": "Blond Mohawk",
+          "eyes": "Brown",
+          "topstats": {
+            "ac": "18",
+            "hitpoints": "72",
+            "speed": "30ft"
+          },
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
+            "Trains all young ones in hunting.",
+            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
+            "He is very patient.",
+            "He is very optimistic."
+          ],
+          "image": "riverspire/saskia_front.png"
+        }
+      ]
+    }
+  ]
+}
