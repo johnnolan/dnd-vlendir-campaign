@@ -69,75 +69,31 @@
           "race": "Tiefling",
           "gender": "Male",
           "class": "Hunter",
-          "job": "Village Elder",
-          "age": "512",
-          "hair": "Blond Mohawk",
-          "eyes": "Brown",
-          "topstats": {
-            "ac": "18",
-            "hitpoints": "72",
-            "speed": "30ft"
-          },
-          "properties": [
-            {
-              "name": "Damage Immunities",
-              "value": "poison, psychic"
-            }
-          ],
-          "abilities": {
-            "str": "14",
-            "dex": "11",
-            "con": "13",
-            "int": "1",
-            "wis": "3",
-            "cha": "1"
-          },
+          "job": "Lighthouse Keeper",
+          "age": "Unknown",
+          "hair": "Purple",
+          "eyes": "Blue",          
           "personality": [
-            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
-            "Trains all young ones in hunting.",
-            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
-            "He is very patient.",
-            "He is very optimistic."
+            "Escentric Tiefling from Glimmerfall. Loves to throw glitter over people. Short attention span and just wants to paint and have fun.",
+            "Loves cuddles and shouting 'Lai lai', a custom from Glimmerfell."
           ],
-          "image": "north-sea/ardor_bore_front.jpg"
+          "image": "north-sea/jakosh_profile.png"
         },
         {
           "type": "simple",
           "name": "Ardor Bore",
           "race": "Water Genasi",
           "gender": "Male",
-          "class": "Hunter",
-          "job": "Village Elder",
-          "age": "512",
-          "hair": "Blond Mohawk",
+          "class": "Druid",
+          "job": "Captain",
+          "age": "Unknown",
+          "hair": "Brown Short",
           "eyes": "Brown",
-          "topstats": {
-            "ac": "18",
-            "hitpoints": "72",
-            "speed": "30ft"
-          },
-          "properties": [
-            {
-              "name": "Damage Immunities",
-              "value": "poison, psychic"
-            }
-          ],
-          "abilities": {
-            "str": "14",
-            "dex": "11",
-            "con": "13",
-            "int": "1",
-            "wis": "3",
-            "cha": "1"
-          },
           "personality": [
-            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
-            "Trains all young ones in hunting.",
-            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
-            "He is very patient.",
-            "He is very optimistic."
+            "Reluctant captain of his ship. Wants to help the adventurers after they aided fixing his ship and destroying the crab.",
+            "Abandoned and bullied as a kid on the streets of Duvia due to who he is. Mother was a victim of a Marid and her offspring was himself. As a result he shys away from leadership and does not believe he deserves his crew."
           ],
-          "image": "north-sea/jakosh_profile.png"
+          "image": "north-sea/ardor_bore_front.jpg"
         }
       ]
     },
@@ -579,38 +535,42 @@
           "name": "Saskia",
           "race": "Eldarin",
           "gender": "Female",
-          "class": "Hunter",
-          "job": "Village Elder",
-          "age": "512",
-          "hair": "Blond Mohawk",
-          "eyes": "Brown",
-          "topstats": {
-            "ac": "18",
-            "hitpoints": "72",
-            "speed": "30ft"
-          },
-          "properties": [
-            {
-              "name": "Damage Immunities",
-              "value": "poison, psychic"
-            }
-          ],
-          "abilities": {
-            "str": "14",
-            "dex": "11",
-            "con": "13",
-            "int": "1",
-            "wis": "3",
-            "cha": "1"
-          },
+          "class": "Druid",
+          "job": "None",
+          "age": "Unknown",
           "personality": [
-            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
-            "Trains all young ones in hunting.",
-            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
-            "He is very patient.",
-            "He is very optimistic."
+            "Old Eldarin Elf from the Feywild. Has never found or travelled back since leaving.",
+            "Caring and has a love for all things nature. Spends her time alone in her own forest woodland.",
+            "Always happy, open to helping and educating those who will listen."
           ],
           "image": "riverspire/saskia_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Captain Lee",
+          "race": "Human",
+          "gender": "Male",
+          "class": "None",
+          "job": "Captain",
+          "age": "Unknown",
+          "personality": [
+            "Retired naval captain from the Jorus. Now spends his time on a smaller vessel inland carrying supplies.",
+            "When on his boat, he is the boss. Outside of his boat he is quiet and thoughtful. On the sea he is absolute and strong willed."
+          ],
+          "image": "riverspire/Captain_Lee_Front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Harry",
+          "race": "Human",
+          "gender": "Male",
+          "class": "Budding Sorcerer/Rogue",
+          "job": "None",
+          "age": "10",
+          "personality": [
+            "Typical child, always wanting to get into trouble. Does not appear to be scared of much. Shows great courage in times of danger. Adores and looks up to Graa, finds him 'sooo coool'."
+          ],
+          "image": "riverspire/Harry.png"
         }
       ]
     }
