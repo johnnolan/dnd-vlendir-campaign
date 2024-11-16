@@ -8,6 +8,66 @@
           "name": "Crispin",
           "race": "Human",
           "gender": "Male",
+          "class": "Cleric",
+          "job": "University Owner",
+          "age": "Unknown",
+          "hair": "Long Brown",
+          "eyes": "Blue",
+          "personality": [
+            "Owner and founder of Medeis University.",
+            "Raised Graa from a baby and oversaw his studies.",
+            "Cares deeply for all people and will put himself at risk to protect them.",
+            "Always has a grin on his face. Strong and caring to peoples experiences. Medium spoken."
+          ],
+          "image": "medeis/crispin_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Falinit",
+          "race": "Elf",
+          "gender": "Male",
+          "class": "Wizard",
+          "job": "University Assistant",
+          "age": "Unknown",
+          "hair": "Long Brown",
+          "eyes": "Blue",
+          "personality": [
+            "Focussed on studies.",
+            "Hardly seems to be paying attention.",
+            "Takes notes of everything that is happening.",
+            "Confident but introverted.",
+            "Happy to not have an opinion on things."
+          ],
+          "image": "medeis/falinit_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Tura",
+          "race": "Orc",
+          "gender": "Female",
+          "class": "Barbarian",
+          "job": "University Trainee",
+          "age": "Unknown",
+          "hair": "Long Black",
+          "eyes": "Brown",
+          "personality": [
+            "Strong and prone to anger. Wants to control her thoughts and is studying under Crispin to help.",
+            "Utterly devoted to Crispin.",
+            "Figths an internal struggle of good vs evil in her heart.",
+            "Speaks with a harsh voice. Quiet and scared of speaking her feelings. Focussed."
+          ],
+          "image": "medeis/tura_front.png"
+        }
+      ]
+    },
+    {
+      "place": "North Sea",
+      "npcs": [
+        {
+          "type": "simple",
+          "name": "Jakosh",
+          "race": "Tiefling",
+          "gender": "Male",
           "class": "Hunter",
           "job": "Village Elder",
           "age": "512",
@@ -39,90 +99,46 @@
             "He is very patient.",
             "He is very optimistic."
           ],
-          "image": "riverspire/saskia_front.png"
-        }
-      ]
-    },
-    ,
-    {
-      "place": "North Sea",
-      "npcs": [
+          "image": "north-sea/ardor_bore_front.jpg"
+        },
         {
-            "type": "simple",
-            "name": "Jakosh",
-            "race": "Tiefling",
-            "gender": "Male",
-            "class": "Hunter",
-            "job": "Village Elder",
-            "age": "512",
-            "hair": "Blond Mohawk",
-            "eyes": "Brown",
-            "topstats": {
-              "ac": "18",
-              "hitpoints": "72",
-              "speed": "30ft"
-            },
-            "properties": [
-              {
-                "name": "Damage Immunities",
-                "value": "poison, psychic"
-              }
-            ],
-            "abilities": {
-              "str": "14",
-              "dex": "11",
-              "con": "13",
-              "int": "1",
-              "wis": "3",
-              "cha": "1"
-            },
-            "personality": [
-              "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
-              "Trains all young ones in hunting.",
-              "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
-              "He is very patient.",
-              "He is very optimistic."
-            ],
-            "image": "north-sea/ardor_bore_front.jpg"
+          "type": "simple",
+          "name": "Ardor Bore",
+          "race": "Water Genasi",
+          "gender": "Male",
+          "class": "Hunter",
+          "job": "Village Elder",
+          "age": "512",
+          "hair": "Blond Mohawk",
+          "eyes": "Brown",
+          "topstats": {
+            "ac": "18",
+            "hitpoints": "72",
+            "speed": "30ft"
           },
-          {
-            "type": "simple",
-            "name": "Ardor Bore",
-            "race": "Water Genasi",
-            "gender": "Male",
-            "class": "Hunter",
-            "job": "Village Elder",
-            "age": "512",
-            "hair": "Blond Mohawk",
-            "eyes": "Brown",
-            "topstats": {
-              "ac": "18",
-              "hitpoints": "72",
-              "speed": "30ft"
-            },
-            "properties": [
-              {
-                "name": "Damage Immunities",
-                "value": "poison, psychic"
-              }
-            ],
-            "abilities": {
-              "str": "14",
-              "dex": "11",
-              "con": "13",
-              "int": "1",
-              "wis": "3",
-              "cha": "1"
-            },
-            "personality": [
-              "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
-              "Trains all young ones in hunting.",
-              "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
-              "He is very patient.",
-              "He is very optimistic."
-            ],
-            "image": "north-sea/jakosh_profile.png"
-          }
+          "properties": [
+            {
+              "name": "Damage Immunities",
+              "value": "poison, psychic"
+            }
+          ],
+          "abilities": {
+            "str": "14",
+            "dex": "11",
+            "con": "13",
+            "int": "1",
+            "wis": "3",
+            "cha": "1"
+          },
+          "personality": [
+            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
+            "Trains all young ones in hunting.",
+            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
+            "He is very patient.",
+            "He is very optimistic."
+          ],
+          "image": "north-sea/jakosh_profile.png"
+        }
       ]
     },
     {
