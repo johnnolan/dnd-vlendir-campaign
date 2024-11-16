@@ -421,41 +421,110 @@
       "npcs": [
         {
           "type": "simple",
-          "name": "Ameline",
-          "race": "Succubus",
+          "name": "Ania Aldabra (Rivers)",
+          "race": "Human",
+          "gender": "Female",
+          "class": "None",
+          "job": "Queen of Aldabra",
+          "age": "Unknown",
+          "personality": [
+            "Caring and quiet. Does not have a desire to lead, but finds herself put in the situations anyway.",
+            "Her people love her, like a mother to all in Aldabra.",
+            "Holds one hand over her right chest as if always wanting to cover herself."
+          ],
+          "image": "jorus/AniaAldabra_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Monty Aldabra",
+          "race": "Human",
+          "gender": "Male",
+          "class": "None",
+          "job": "King of Aldabra",
+          "age": "Unknown",
+          "personality": [
+            "Believes in the old ways. Stoic outer shell but fights with an inner termoil to love his children.",
+            "Rules strongly but with love for his people.",
+            "Proud."
+          ],
+          "image": "jorus/MontyAldabraFinal.jpg"
+        },
+        {
+          "type": "simple",
+          "name": "Yara Aldabra",
+          "race": "Human",
           "gender": "Female",
           "class": "Hunter",
-          "job": "Village Elder",
-          "age": "512",
-          "hair": "Blond Mohawk",
-          "eyes": "Brown",
-          "topstats": {
-            "ac": "18",
-            "hitpoints": "72",
-            "speed": "30ft"
-          },
-          "properties": [
-            {
-              "name": "Damage Immunities",
-              "value": "poison, psychic"
-            }
-          ],
-          "abilities": {
-            "str": "14",
-            "dex": "11",
-            "con": "13",
-            "int": "1",
-            "wis": "3",
-            "cha": "1"
-          },
+          "job": "None",
+          "age": "Unknown",
+          "personality": ["Married to Rab Undergrove."],
+          "image": "jorus/Soldier_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Elis Aldabra",
+          "race": "Human",
+          "gender": "Male",
+          "class": "Paladin",
+          "job": "None",
+          "age": "Unknown",
           "personality": [
-            "One of the oldest in the town he can still hunt with the youngest warriors. Odd for an elf he loves the energy of the young.",
-            "Trains all young ones in hunting.",
-            "He has 3 small piercings on his lip and 3 small piercings on his left eyebrow. His face is covered in scars. No one knows, but he got these from fighting a Drow warrior when he was young and foolish, delving deep into a cavern long forgotten.",
-            "He is very patient.",
-            "He is very optimistic."
+            "Married to Mali Crawford. Has a new born dauger Brie.",
+            "Rules Autmunrun with Mali Crawford.",
+            "Brotherly annoying to Lorena. Loves to fish with her."
           ],
-          "image": "jorus/Ameline_front.png"
+          "image": "jorus/Soldier_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Ifan Aldabra",
+          "race": "Human",
+          "gender": "Male",
+          "class": "None",
+          "job": "None",
+          "age": "Unknown",
+          "personality": [
+            "Secretly trained as a Paladin.",
+            "Brotherly annoying to Lorena. Loves to fish with her."
+          ],
+          "image": "jorus/ifen.jpg"
+        },
+        {
+          "type": "simple",
+          "name": "Rab Undergrove",
+          "race": "Human",
+          "gender": "Female",
+          "class": "Hunter",
+          "job": "None",
+          "age": "Unknown",
+          "personality": [
+            "Married to Yara Aldabra.",
+            "Blacksmith in the mountain city Undergrove.",
+            "Loves violence, eager to get into action, will do anything for his family."
+          ],
+          "image": "jorus/RabUndergrove_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Uldon",
+          "race": "Tortle",
+          "gender": "Male",
+          "class": "None",
+          "job": "Protector of Tu'Sin",
+          "age": "Unknown",
+          "personality": ["."],
+          "image": "jorus/TortalMale_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Lila",
+          "race": "Tortle",
+          "gender": "Female",
+          "class": "None",
+          "job": "Protector of Tu'Sin",
+          "age": "Unknown",
+          "personality": ["."],
+          "image": "jorus/TortalFemale_front.jpg"
         }
       ]
     },

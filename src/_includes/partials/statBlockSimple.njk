@@ -8,7 +8,7 @@
                 <h2>{{ npc.race }}</h2>
             </div> <!-- creature heading -->
             <div class="creature-heading">
-                <img src="/assets/images/npcs/{{ npc.image }}" />
+                <img alt="{{ npc.name }}" src="/assets/images/npcs/{{ npc.image }}" />
             </div> <!-- creature heading -->
             <svg height="5" width="100%" class="tapered-rule">
             <polyline points="0,0 400,2.5 0,5"></polyline>
@@ -25,15 +25,7 @@
                 <div class="property-block">
                     <h4>Age.</h4>
                     <p>{{ npc.age }} years old</p>
-                </div> <!-- property block -->  
-                <div class="property-block">
-                    <h4>Hair.</h4>
-                    <p>{{ npc.hair }}</p>
-                </div> <!-- property block -->  
-                <div class="property-block">
-                    <h4>Eyes.</h4>
-                    <p>{{ npc.eyes }}</p>
-                </div> <!-- property block --> 
+                </div>
             <div class="property-block">
                 <h4>Personality.</h4>
                  {% for trait in npc.personality %}
