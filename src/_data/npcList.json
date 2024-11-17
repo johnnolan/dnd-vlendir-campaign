@@ -27,7 +27,7 @@
           "race": "Elf",
           "gender": "Male",
           "class": "Wizard",
-          "job": "University Assistant",
+          "job": "University Scholary Assistant",
           "age": "Unknown",
           "hair": "Long Brown",
           "eyes": "Blue",
@@ -57,6 +57,22 @@
             "Speaks with a harsh voice. Quiet and scared of speaking her feelings. Focussed."
           ],
           "image": "medeis/tura_front.png"
+        },
+        {
+          "type": "simple",
+          "name": "Vigo Twofoot",
+          "race": "Halfling",
+          "gender": "Male",
+          "class": "None",
+          "job": "University Assistant",
+          "age": "Unknown",
+          "hair": "Balding Brown",
+          "eyes": "Brown",
+          "personality": [
+            "Sucks up to Crispin, always needing his attention.",
+            "Dedicated to keeping things organised. He hates mess and disorder and no time for joking. He takes his role extremely seriously."
+          ],
+          "image": "medeis/missing.png"
         }
       ]
     },
