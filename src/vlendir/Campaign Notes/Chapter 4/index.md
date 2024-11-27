@@ -1,8 +1,8 @@
 ---
-title: Chapter 3
+title: Chapter 4
 layout: layouts/indexPage.njk
 eleventyNavigation:
-  key: Chapter 3
+  key: Chapter 4
   parent: Campaign Notes
-  order: 3
+  order: 2
 ---
