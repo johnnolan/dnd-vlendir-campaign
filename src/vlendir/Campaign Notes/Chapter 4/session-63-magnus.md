@@ -1,8 +1,8 @@
 ---
-title: Session 42 - Common Ground
+title: Session 63 - MAGNUS!
 eleventyNavigation:
-  key: Session 42 - Common Ground
-  parent: Chapter 3
+  key: Session 63 - MAGNUS!
+  parent: Chapter 4
   order: 1
 ---
 
