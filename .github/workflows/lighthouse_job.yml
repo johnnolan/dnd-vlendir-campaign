@@ -8,16 +8,16 @@ jobs:
 
     steps:
       - name: Check out code
-        uses: actions/checkout@v3.5.3
+        uses: actions/checkout@v4.2.2
 
       - name: Set up prerequisites - node and yarn
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version-file: '.nvmrc'
 
       - name: Cache yarn dependencies
         id: cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ./node_modules
           key: modules-${{ hashFiles('yarn.lock') }}
@@ -31,7 +31,7 @@ jobs:
 
       - name: Audit pages using lighthouse
         continue-on-error: true
-        uses: treosh/lighthouse-ci-action@v10
+        uses: treosh/lighthouse-ci-action@v12
         with:
           configPath: "./lighthouserc.json"
           budgetPath: ./src/_includes/budget.json
