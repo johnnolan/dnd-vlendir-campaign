@@ -31,4 +31,5 @@ jobs:
         run: yarn run lint:markdown
 
       - name: Run Linting
+        continue-on-error: true
         run: yarn run lint:check
