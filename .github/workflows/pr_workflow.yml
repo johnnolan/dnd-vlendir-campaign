@@ -17,3 +17,47 @@ jobs:
   pa11y:
     name: Run pa11y job
     uses: ./.github/workflows/pa11y_job.yml
+
+  build_deploy:
+    name: Build and Deploy Preview
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4.2.2
+
+      - name: Set up prerequisites - node and yarn
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
+
+      - name: Cache yarn dependencies
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: ./node_modules
+          key: modules-${{ hashFiles('yarn.lock') }}
+
+      - name: Install packages
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: yarn install
+      
+      - name: Generate slug
+        id: generate_slug
+        run: echo "##[set-output name=slug;]$(echo ${GITHUB_HEAD_REF#refs/heads/} | sed -r 's/[~\^]+//g' | sed -r 's/[^a-zA-Z0-9]+/-/g' | sed -r 's/^-+\|-+$//g' | tr A-Z a-z)"
+
+      - name: Build
+        run: yarn run build
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4.7.2
+        with:
+          branch: gh-pages
+          folder: _site
+          target-folder: ${{ steps.generate_slug.outputs.slug }}
+      - name: Publish env
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: Preview environment
+          message: |
+            ## Preview environment
+            https://vlendir.johnnolan.dev/${{ steps.generate_slug.outputs.slug }}/
