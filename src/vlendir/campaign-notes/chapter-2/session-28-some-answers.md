@@ -37,15 +37,15 @@ Before that she talked to them each about their gods and who/what they are.
 
 ### The Keeper
 
-[Overview of The Keeper](../../../Fey%20Deities/The%20Keeper)
+[Overview of The Keeper](../../../fey-deities/the-keeper)
 
 ### Aislaine, The Maiden
 
-[Overview of Aislaine, The Maiden](../../../Fey%20Deities/Aislaine%20The%20Maiden)
+[Overview of Aislaine, The Maiden](../../../fey-deities/aislaine-the-maiden)
 
 ### Dragonkin
 
-[Overview of The Dragonkin](../../../Fey%20Deities/Lorena%20Dragonkin)
+[Overview of The Dragonkin](../../../fey-deities/lorena-dragonkin)
 
 As they finished talking, they sat in a circle together and breathed in the ground down root that is now boiling in a kettle in front of them. As they faded back each awoke in their own Fey dream.
 

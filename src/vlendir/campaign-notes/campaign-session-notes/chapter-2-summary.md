@@ -141,8 +141,6 @@ Key points
 
  Lila's face drops her tea in shock and grabs onto Uldon in shock. Turning to Lorena she asks for more details. Explaining that it is still alive and growing fast, they both burst into joy. Suddenly everyone felt a rumble under their feet and the orb in the middle of the room flicker violently before going out. Standing up immediately they heard beneath them a giant intake of breath as the ground shuddered. Realising what they were on, a giant and old Dragon Turtle.  
 
- The history of Tu'Sin [https://www.worldanvil.com/w/vlendir-drusslegend/a/legend-of-t-u-sin-and-king-jep-aldabra-article](https://www.worldanvil.com/w/vlendir-drusslegend/a/legend-of-t-u-sin-and-king-jep-aldabra-article)  
-
  Lila quickly said come with us and they made their way quickly to the north of the cave. As they bent down on the back of its shell towards the front, Lila explained that the turtle they found is the offspring of this Dragon Turtle. For 900 years she has been kept care of, sustaining her so that she may see one of her offspring live to carry her species on, the last of her kind. Over the years each egg has either failed to hatch or never lived past a day. We had almost given up hope.  
 
  This news, she must have heard it. She is fading now. The magic has been the only thing allowing her to breath since she has been stuck here... I think she is ready for her peace now, now she knows one of her children has made it. Its time to let her go.  
