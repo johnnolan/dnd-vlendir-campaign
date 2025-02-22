@@ -38,7 +38,7 @@ The next day the group awake to hear of a new forest grown south of Aldabra from
 
  As Hiraani ran over to Jor asking if she was okay, she pulled up her bow, pointed it at him and shouted "You left me!".  
 
- Jor told them the story of Corellon and Arelel after she breaks down and hugs him. She missed having him around and was upset with how sudden he left her as friends when they had grown up together. [https://www.worldanvil.com/w/vlendir-drusslegend/a/corellon-and-arelel-article]( https://www.worldanvil.com/w/vlendir-drusslegend/a/corellon-and-arelel-article)  
+ Jor told them the story of Corellon and Arelel after she breaks down and hugs him. She missed having him around and was upset with how sudden he left her as friends when they had grown up together.
 
  She explains The Drow have returned from their underground city and are destroying the Elven sacred sites. Meanwhile her people in Jinlon stay protected and hidden in their town, protected by a shield raised by Jaal Danyon She agrees to lead them back to Jinlon to return home but once there they should set off quickly for Shenar temple, there is rumour of foul play there as well.  
 
@@ -150,6 +150,6 @@ The next day the group awake to hear of a new forest grown south of Aldabra from
 
  They took down Trillith fast with a wise move to freeze him in place by Graa.  
 
- Its at this point Graa stops and remembers about the planes of existence that he learnt about in his studies and goes to tell the group what he knows and how this connects. [The use of The Weave](../../../History/The%20use%20of%20The%20Weave).
+ Its at this point Graa stops and remembers about the planes of existence that he learnt about in his studies and goes to tell the group what he knows and how this connects. [The use of The Weave](../../../history/the-use-of-the-weave).
 
- [The Weave and Ley Lines](../../../History/The%20Weave%20and%20Ley%20Lines)
+ [The Weave and Ley Lines](../../../history/the-use-of-the-weave)
