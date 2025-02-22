@@ -27,7 +27,8 @@ The group sat down with Crispin and found out the following key information.
 * Varalla appears to appear for shorts amount of time in different areas of the world, but no one has had the interactions they have had.
 * Hiraani asked around could they get support if an apocolyptic event was to occur. Magnus tells him to keep that thought for the council. He believes the 3 of them should not be afraid to voice their opinions as they have earnt their status in the world now.
 * Graa realises that the book he stole is in fact the book from The Nine Hells. A chuckle in the back of his mind, from the book, confirming the fact.
-* 
+* Lorena sees a picture on Magnus desk of Jep, Jennifar and Magnus. Jennifar resting her head loving on Magnus shoulder. She realises, Jennifar is in fact Varalla! OMG!
+* Shook, Magnus explains he thought she had died. They were to be married. When they activated the device, each held onto a shard. She was holding the Shadowfell shard and vanished after it was activated. They searched the Shadowfell for years trying to find her. She held a darkness like Hiraani which made her perfect for the ritual. He had given up. She must have been in the Shadowfell for 3000 years. It must have corrupted her while being there.
 
 
 ## Report Date
