@@ -37,10 +37,10 @@
     urlpattern-polyfill "^10.0.0"
     ws "^8.18.1"
 
-"@11ty/eleventy-navigation@1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@11ty/eleventy-navigation/-/eleventy-navigation-1.0.2.tgz#07ce0a176e29a56c88108a443b62410f5c83483d"
-  integrity sha512-2LZf2MW0w9gW4uTVjyyd8f7rf9HHtRB+RX+p9U0A5FR0efv8mAjDiutdqjo8HrljT6W+ad47EtZEMVL8PwaMRw==
+"@11ty/eleventy-navigation@1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@11ty/eleventy-navigation/-/eleventy-navigation-1.0.3.tgz#4334c9dc937644608cc42cc28b08cecf665c875f"
+  integrity sha512-E0E3AFvNsgYThDmalgBnDRoeIwAfAaxLAA0EvUVANRj5IxqZF/c3+o2zuS54EbG25zXA2TeoKKt1WVsTCLJRmw==
   dependencies:
     dependency-graph "^1.0.0"
 
@@ -3840,10 +3840,10 @@ safe-buffer@~5.2.0:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-sass@1.86.0:
-  version "1.86.0"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.86.0.tgz#f49464fb6237a903a93f4e8760ef6e37a5030114"
-  integrity sha512-zV8vGUld/+mP4KbMLJMX7TyGCuUp7hnkOScgCMsWuHtns8CWBoz+vmEhoGMXsaJrbUP8gj+F1dLvVe79sK8UdA==
+sass@1.86.1:
+  version "1.86.1"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.86.1.tgz#862c7fc9d30ffb9bf616fa20e50c033cb1bee4dc"
+  integrity sha512-Yaok4XELL1L9Im/ZUClKu//D2OP1rOljKj0Gf34a+GzLbMveOzL7CfqYo+JUa5Xt1nhTCW+OcKp/FtR7/iqj1w==
   dependencies:
     chokidar "^4.0.0"
     immutable "^5.0.2"
