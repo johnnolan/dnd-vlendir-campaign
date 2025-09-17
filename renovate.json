@@ -4,7 +4,6 @@
         "config:base",
         "schedule:daily",
         ":pinAllExceptPeerDependencies",
-        ":automergeAll",
         "npm:unpublishSafe",
         "group:all"
     ],
@@ -12,3 +11,4 @@
         "enabled": true
     }
 }
+
