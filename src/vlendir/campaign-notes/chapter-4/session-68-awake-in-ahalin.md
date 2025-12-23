@@ -1,7 +1,7 @@
 ---
-title: Session 66 - Awake in Ahalin
+title: Session 68 - Awake in Ahalin
 eleventyNavigation:
-  key: Session 66 - Awake in Ahalin
+  key: Session 68 - Awake in Ahalin
   parent: Chapter 4
   order: 3
 ---
