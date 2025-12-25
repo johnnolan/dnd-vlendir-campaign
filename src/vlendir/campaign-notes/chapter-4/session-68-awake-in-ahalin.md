@@ -6,6 +6,8 @@ eleventyNavigation:
   order: 3
 ---
 
+![OSession 68](/assets/images/article/session68.png "OSession 68")
+
 ## General Summary
 
 Following the fall of Medeis University and the kidnapping of Crispin (Magnus) by Varalla, the party teleported to safety. The session opens with the group awakening two days later, fully healed, in the High Elven city of Ahalin (referred to phonetically in the transcript as "our Harland").
