@@ -77,6 +77,48 @@
             ],
             "charges": 10,
             "recharge": "dawn"
+        },
+        {
+            "name": "Elva's Rebuke",
+            "source": "Vlendir",
+            "page": 0,
+            "rarity": "legendary",
+            "reqAttune": false,
+            "type": "S",
+            "entries": [
+                "You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
+                {
+                    "name": "Sentimental Vengeance",
+                    "entries": [
+                        "When you hit a creature with this weapon, you deal an extra 1d8 radiant damage. If the target is Undead or a creature native to the Shadowfell, the extra damage increases to 2d8."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Elva's Stand",
+                    "entries": [
+                        "As a reaction when you are forced to make a saving throw against being charmed or frightened, you can plant the spear in the ground to steel your resolve, gaining advantage on the save."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "The Final Strike",
+                    "entries": [
+                        "This spear has 1 charge. When you hit a creature that has less than 50 hit points remaining, you can expend the charge to force the target to make a DC 16 Constitution saving throw. On a failed save, the creature is instantly destroyed (reduced to 0 hit points).",
+                        "The spear regains the charge after finishing a long rest."
+                    ],
+                    "type": "entries"
+                }
+            ],
+            "weaponCategory": "simple",
+            "property": [
+                "V",
+                "T"
+            ],
+            "dmg1": "2d6",
+            "dmgType": "piercing",
+            "range": "20/60",
+            "weight": 3
         }
     ]
 }
