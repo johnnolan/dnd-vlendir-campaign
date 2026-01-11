@@ -21,10 +21,10 @@ Run `helvum`
 
 `cd /run/media/jnolan/Media/media/Vlendir/`
 
-`ffmpeg -i "2025-12-22 20-42-06.mkv"`
+`ffmpeg -i "2026-01-11 20-23-28.mkv"`
 
 ### Export 2nd voice channel
 
-`ffmpeg -i "2025-12-28 20-46-05.mkv" -map 0:2 -ac 1 -ar 16000 "2025-12-28 20-46-05.wav"`
+`ffmpeg -i "2026-01-11 20-23-28.mkv" -map 0:2 -ac 1 -ar 16000 "2026-01-11 20-23-28.wav"`
 
 ### Drag into NotebookLM
