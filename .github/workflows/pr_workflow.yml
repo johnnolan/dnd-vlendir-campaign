@@ -55,7 +55,7 @@ jobs:
           folder: _site
           target-folder: ${{ steps.generate_slug.outputs.slug }}
       - name: Publish env
-        uses: marocchino/sticky-pull-request-comment@v2
+        uses: marocchino/sticky-pull-request-comment@v2.9.4
         with:
           header: Preview environment
           message: |
