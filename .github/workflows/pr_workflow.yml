@@ -23,16 +23,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out code
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.1
 
       - name: Set up prerequisites - node and yarn
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v6.5.0
         with:
           node-version-file: '.nvmrc'
 
       - name: Cache yarn dependencies
         id: cache
-        uses: actions/cache@v5
+        uses: actions/cache@v5.1.0
         with:
           path: ./node_modules
           key: modules-${{ hashFiles('yarn.lock') }}
@@ -49,13 +49,13 @@ jobs:
         run: yarn run build
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4.8.0
+        uses: JamesIves/github-pages-deploy-action@v4.9.0
         with:
           branch: gh-pages
           folder: _site
           target-folder: ${{ steps.generate_slug.outputs.slug }}
       - name: Publish env
-        uses: marocchino/sticky-pull-request-comment@v2
+        uses: marocchino/sticky-pull-request-comment@v2.9.4
         with:
           header: Preview environment
           message: |
