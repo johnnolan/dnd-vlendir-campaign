@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@11ty/eleventy-navigation": "1.0.5",
-    "@babel/core": "8.0.10",
+    "@babel/core": "8.1.0",
     "@babel/eslint-parser": "8.0.7",
     "@babel/preset-env": "8.0.7",
     "concurrently": "10.0.6",
@@ -38,9 +38,9 @@
     "pa11y-ci": "5.0.0",
     "prettier": "3.9.10",
     "sass": "1.107.1",
-    "turndown": "7.2.4"
+    "turndown": "7.2.5"
   },
   "dependencies": {
-    "@11ty/eleventy": "3.1.7"
+    "@11ty/eleventy": "3.1.8"
   }
 }
